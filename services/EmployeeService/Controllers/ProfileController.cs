@@ -6,7 +6,7 @@ using EmployeeService.Models;
 namespace EmployeeService.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("employees")]
 public class EmployeeController : ControllerBase
 {
 
@@ -20,24 +20,17 @@ public class EmployeeController : ControllerBase
         _logger = logger;
     }
     
-    [HttpGet("{employeeId}")]
+    [HttpGet("{employeeId}/profile")]
     public async Task<IActionResult> GetRecordById(string employeeId)
     {
         var student = await _context.LoadAsync<Employee>(employeeId);
+        
         if (student == null) return NotFound();
+        
         return Ok(student);
     }
-    
-    [HttpGet]
-    public async Task<IActionResult> GetAllRecords()
-    {
-        var record = await _context.ScanAsync<Employee>(default)
-            .GetRemainingAsync();
-        
-        return Ok(record);
-    }
-    
-    [HttpPost]
+
+    [HttpPost("{employeeId}/profile")]
     public async Task<IActionResult> CreateRecord([FromBody] Employee employee)
     {
         var record = await _context.LoadAsync<Employee>(employee.Id);
