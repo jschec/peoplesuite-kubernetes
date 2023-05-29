@@ -2,9 +2,19 @@ using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
 using Amazon.S3;
 
+using EmployeeService.Models;
 using EmployeeService.Utils;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Build a config object, using env vars and JSON providers.
+IConfiguration config = new ConfigurationBuilder()
+    .AddJsonFile("appsettings.json")
+    .AddEnvironmentVariables()
+    .Build();
+
+StorageConfig storageConfig = config.GetRequiredSection("Storage")
+    .Get<StorageConfig>();
 
 ////////////////////////////////////
 // Add services to the container. //
@@ -22,7 +32,8 @@ builder.Services.AddAWSService<IAmazonDynamoDB>();
 builder.Services.AddScoped<IDynamoDBContext, DynamoDBContext>();
 // Add S3
 builder.Services.AddAWSService<IAmazonS3>();
-builder.Services.AddScoped<IS3Service, S3Service>();
+builder.Services.AddScoped<IS3Service, S3Service>(
+    _ => new S3Service(storageConfig));
 
 ////////////////////////////////////
 
