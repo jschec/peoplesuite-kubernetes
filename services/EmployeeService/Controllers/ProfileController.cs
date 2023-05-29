@@ -10,37 +10,38 @@ namespace EmployeeService.Controllers;
 public class EmployeeController : ControllerBase
 {
 
-    private readonly IDynamoDBContext _context;
+    private readonly IDynamoDBContext _dbContext;
     private readonly ILogger<EmployeeController> _logger;
 
     public EmployeeController(
-        IDynamoDBContext context, ILogger<EmployeeController> logger)
+        IDynamoDBContext dbContext, 
+        ILogger<EmployeeController> logger)
     {
-        _context = context;
+        _dbContext = dbContext;
         _logger = logger;
     }
     
     [HttpGet("{employeeId}/profile")]
     public async Task<IActionResult> GetRecordById(string employeeId)
     {
-        var student = await _context.LoadAsync<Employee>(employeeId);
+        var record = await _dbContext.LoadAsync<Employee>(employeeId);
         
-        if (student == null) return NotFound();
+        if (record == null) return NotFound();
         
-        return Ok(student);
+        return Ok(record);
     }
 
     [HttpPost("{employeeId}/profile")]
-    public async Task<IActionResult> CreateRecord([FromBody] Employee employee)
+    public async Task<IActionResult> CreateRecord([FromBody] Employee reqBody)
     {
-        var record = await _context.LoadAsync<Employee>(employee.Id);
+        var record = await _dbContext.LoadAsync<Employee>(reqBody.Id);
         
         if (record != null)
         {
-            return BadRequest($"Employee with Id {employee.Id} Already Exists");
+            return BadRequest($"Employee with Id {reqBody.Id} Already Exists");
         }
         
-        await _context.SaveAsync(employee);
-        return Ok(employee);
+        await _dbContext.SaveAsync(reqBody);
+        return Ok(record);
     }
 }
