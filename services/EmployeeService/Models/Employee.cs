@@ -6,7 +6,7 @@ namespace EmployeeService.Models;
 public class Employee
 {
     [DynamoDBHashKey("id")]
-    public string Id { get; set; }
+    public string? Id { get; set; }
     [DynamoDBProperty("first_name")]
     public string FirstName { get; set; }
     [DynamoDBProperty("last_name")]
@@ -21,8 +21,4 @@ public class Employee
     public string ManagerId { get; set; }
     [DynamoDBProperty("manager_name")]
     public string ManagerName { get; set; }
-    [DynamoDBProperty("photo_object_bucket")]
-    public string? PhotoObjectBucket { get; set; }
-    [DynamoDBProperty("photo_object_key")]
-    public string? PhotoObjectKey { get; set; }
 }
