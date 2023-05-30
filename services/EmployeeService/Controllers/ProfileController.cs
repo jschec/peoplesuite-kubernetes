@@ -32,15 +32,17 @@ public class EmployeeController : ControllerBase
     }
 
     [HttpPost("{employeeId}/profile")]
-    public async Task<IActionResult> CreateRecord([FromBody] Employee reqBody)
+    public async Task<IActionResult> CreateRecord(string employeeId, [FromBody] Employee reqBody)
     {
-        var record = await _dbContext.LoadAsync<Employee>(reqBody.Id);
+        var record = await _dbContext.LoadAsync<Employee>(employeeId);
         
         if (record != null)
         {
-            return BadRequest($"Employee with Id {reqBody.Id} Already Exists");
+            return BadRequest($"Employee with Id {employeeId} Already Exists");
         }
-        
+
+        reqBody.Id = employeeId;
+
         await _dbContext.SaveAsync(reqBody);
         return Ok(record);
     }
