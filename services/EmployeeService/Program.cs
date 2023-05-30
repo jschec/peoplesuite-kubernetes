@@ -1,6 +1,8 @@
+using Amazon;
 using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
 using Amazon.S3;
+using Amazon.Extensions.NETCore.Setup;
 
 using EmployeeService.Models;
 using EmployeeService.Utils;
@@ -25,7 +27,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // AWS Services configuration
-var awsOptions = builder.Configuration.GetAWSOptions();
+AWSOptions awsOptions = builder.Configuration.GetAWSOptions();
 builder.Services.AddDefaultAWSOptions(awsOptions);
 // Add DynamoDB
 builder.Services.AddAWSService<IAmazonDynamoDB>();
