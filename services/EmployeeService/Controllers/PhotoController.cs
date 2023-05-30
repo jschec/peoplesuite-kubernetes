@@ -28,13 +28,12 @@ public class PhotoController : ControllerBase
     [HttpGet("{employeeId}/photo")]
     public async Task<IActionResult> DownloadObject(string employeeId)
     {
-        Employee record = await _dbContext
-            .LoadAsync<Employee>(employeeId);
+        Employee record = await _dbContext.LoadAsync<Employee>(employeeId);
         
+        // Escape out if no matching record is current in the Database
         if (record == null) return NotFound();
         
-        string objectUrl = await _storageContext.GetObjectUrl(
-            record.PhotoObjectBucket, record.PhotoObjectKey);
+        string objectUrl = await _storageContext.GetObjectUrl(employeeId);
         
         return Ok(new { path = objectUrl });
     }
@@ -45,19 +44,10 @@ public class PhotoController : ControllerBase
     {
         var record = await _dbContext.LoadAsync<Employee>(employeeId);
 
-        if (record == null)
-        {
-            return NotFound();
-        }
+        // Escape out if no matching record is current in the Database
+        if (record == null) return NotFound();
         
-        string objectUri = await _storageContext.UploadFile(file);
-        // Remove S3 URI prefix and split by '/'
-        string[] parsedUri = objectUri[4..].Split('/');
-        
-        record.PhotoObjectBucket = parsedUri[0];
-        record.PhotoObjectKey = string.Join("/", parsedUri[1..]);
-
-        await _dbContext.SaveAsync(record);
+        await _storageContext.UploadFile(file, employeeId);
 
         return Ok(record);
     }
