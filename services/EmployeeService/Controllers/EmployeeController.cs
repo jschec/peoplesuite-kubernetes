@@ -64,8 +64,14 @@ public class EmployeeController : ControllerBase
     }
 
     [HttpPost("{employeeId}/profile")]
-    public async Task<IActionResult> CreateRecord(string employeeId, [FromBody] EmployeeCreate reqBody)
+    public async Task<IActionResult> CreateRecord(
+        string employeeId, [FromBody] EmployeeCreate reqBody)
     {
+        if (employeeId.Length != 7)
+        {
+            return BadRequest($"Employee Id must be exactly 7 characters");
+        }
+        
         var record = await _dbContext.LoadAsync<EmployeeRecord>(employeeId);
         
         if (record != null)
@@ -80,7 +86,9 @@ public class EmployeeController : ControllerBase
             DepartmentName = reqBody.DepartmentName,
             FirstName = reqBody.FirstName,
             LastName = reqBody.LastName,
+            Title = reqBody.Title,
             ManagerId = reqBody.ManagerId,
+            ManagerName = reqBody.ManagerName,
             StartDate = reqBody.StartDate
         };
 
