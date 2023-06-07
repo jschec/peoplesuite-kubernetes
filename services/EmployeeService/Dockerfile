@@ -5,9 +5,9 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["services/EmployeeService/EmployeeService.csproj", "EmployeeService/"]
-RUN dotnet restore "services/EmployeeService/EmployeeService.csproj"
 COPY . .
+RUN dotnet restore "EmployeeService/EmployeeService.csproj"
+
 WORKDIR "/src/EmployeeService"
 RUN dotnet build "EmployeeService.csproj" -c Release -o /app/build
 
