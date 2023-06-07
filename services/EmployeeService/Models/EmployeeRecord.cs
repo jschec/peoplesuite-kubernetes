@@ -3,7 +3,7 @@ using Amazon.DynamoDBv2.DataModel;
 namespace EmployeeService.Models;
 
 [DynamoDBTable("employee")]
-public class Employee
+public class EmployeeRecord
 {
     [DynamoDBHashKey("id")]
     public string? Id { get; set; }
