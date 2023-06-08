@@ -26,7 +26,7 @@ public class EmployeeController : ControllerBase
     }
     
     [HttpGet("{employeeId}/photo")]
-    public async Task<IActionResult> DownloadObject(string employeeId)
+    public async Task<IActionResult> DownloadPhoto(string employeeId)
     {
         EmployeeRecord record = await _dbContext
             .LoadAsync<EmployeeRecord>(employeeId);
@@ -40,7 +40,7 @@ public class EmployeeController : ControllerBase
     }
     
     [HttpPost("{employeeId}/photo")]
-    public async Task<IActionResult> UploadObject(
+    public async Task<IActionResult> UploadPhoto(
         string employeeId, [FromForm] IFormFile file)
     {
         var record = await _dbContext.LoadAsync<EmployeeRecord>(employeeId);
@@ -54,7 +54,7 @@ public class EmployeeController : ControllerBase
     }
     
     [HttpGet("{employeeId}/profile")]
-    public async Task<IActionResult> GetRecordById(string employeeId)
+    public async Task<IActionResult> GetProfileById(string employeeId)
     {
         var record = await _dbContext.LoadAsync<EmployeeRecord>(employeeId);
         
@@ -64,7 +64,7 @@ public class EmployeeController : ControllerBase
     }
 
     [HttpPost("{employeeId}/profile")]
-    public async Task<IActionResult> CreateRecord(
+    public async Task<IActionResult> CreateProfile(
         string employeeId, [FromBody] EmployeeCreate reqBody)
     {
         if (employeeId.Length != 7)
