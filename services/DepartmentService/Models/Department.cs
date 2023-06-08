@@ -10,5 +10,5 @@ public class Department
     [DynamoDBProperty("cost_center")]
     public int CostCenter { get; set; }
     [DynamoDBProperty("parent_department_id")]
-    public string ParentDepartmentId { get; set; }
+    public string? ParentDepartmentId { get; set; }
 }
