@@ -13,5 +13,5 @@ eksctl create fargateprofile \
     
 eksctl create fargateprofile \
     --cluster $CLUSTER_NAME \
-    --name department-web-api-fargate-profile \
-    --namespace department-web-api
+    --name departments-web-api-fargate-profile \
+    --namespace departments-web-api

@@ -26,11 +26,10 @@ department_policy_arn=$(aws iam create-policy \
     | jq -r .Policy.Arn )
     
 eksctl create iamserviceaccount \
-  --cluster=$CLUSTER_NAME \
-  --namespace=department-web-api \
-  --name=department-web-api-controller \
-  --role-name=DepartmentWebApiControllerRole \
+  --cluster=people-suite \
+  --namespace=departments-web-api \
+  --name=departments-web-api-controller \
+  --role-name=DepartmentsWebApiControllerRole \
   --attach-policy-arn=$department_policy_arn \
   --override-existing-serviceaccounts \
   --approve
-  
