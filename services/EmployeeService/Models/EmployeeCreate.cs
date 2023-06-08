@@ -11,7 +11,7 @@ public class EmployeeCreate
     [RegularExpression(@"^[A-Z]{2}$", 
         ErrorMessage = "Country must be 2 digit ISO-3166 code")]
     public string Country { get; set; }
-    public string DepartmentName { get; set; }
+    public string DepartmentId { get; set; }
     public string Title { get; set; }
     public string? ManagerId { get; set; }
     public string? ManagerName { get; set; }

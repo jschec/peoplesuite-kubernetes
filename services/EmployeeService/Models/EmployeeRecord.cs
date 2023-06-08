@@ -17,8 +17,8 @@ public class EmployeeRecord
     public string Country { get; set; }
     [DynamoDBProperty("title")]
     public string Title { get; set; }
-    [DynamoDBProperty("department_name")]
-    public string? DepartmentName { get; set; }
+    [DynamoDBProperty("department_id")]
+    public string? DepartmentId { get; set; }
     [DynamoDBProperty("manager_id")]
     public string ManagerId { get; set; }
     [DynamoDBProperty("manager_name")]

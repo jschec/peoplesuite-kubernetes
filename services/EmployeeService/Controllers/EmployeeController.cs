@@ -50,7 +50,7 @@ public class EmployeeController : ControllerBase
         
         await _storageContext.UploadFile(file, employeeId);
 
-        return Ok(record);
+        return Ok();
     }
     
     [HttpGet("{employeeId}/profile")]
@@ -83,7 +83,7 @@ public class EmployeeController : ControllerBase
         {
             Id = employeeId,
             Country = reqBody.Country,
-            DepartmentName = reqBody.DepartmentName,
+            DepartmentId = reqBody.DepartmentId,
             FirstName = reqBody.FirstName,
             LastName = reqBody.LastName,
             Title = reqBody.Title,

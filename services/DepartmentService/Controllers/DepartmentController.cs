@@ -1,6 +1,7 @@
 using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.DocumentModel;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 using DepartmentService.Models;
 
@@ -37,21 +38,25 @@ public class DepartmentController : ControllerBase
     {
         IEnumerable<ScanCondition> conditions = new[]
         {
-            new ScanCondition("department_id", ScanOperator.Equal, departmentId)
+            new ScanCondition("DepartmentId", ScanOperator.Equal, departmentId)
         };
         
         IEnumerable<Employee> results = await _dbContext
             .ScanAsync<Employee>(conditions)
             .GetRemainingAsync();
 
-        
-        
-        // TODO - combine the first and last name
+        List<EmployeeMinified> processedResults = new List<EmployeeMinified>();
+
         foreach (var result in results)
         {
-            
+            processedResults.Add(new EmployeeMinified()
+            {
+                EmployeeID = result.Id,
+                EmployeeName = result.FirstName + " " + result.LastName,
+                EmployeeProfileURL = $"{Dns.GetHostName()}/peoplesuite/apis/employees/{result.Id}/profile"
+            });
         }
 
-        return Ok(results);
+        return Ok(processedResults);
     }
 }
