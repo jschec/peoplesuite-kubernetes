@@ -38,7 +38,7 @@
         "dynamodb:PutItem"
       ],
       "Resource": [
-        "arn:aws:dynamodb:::table/employee"
+        "arn:aws:dynamodb:us-east-1:163487917873:table/employee"
       ],
       "Effect": "Allow"
     }
