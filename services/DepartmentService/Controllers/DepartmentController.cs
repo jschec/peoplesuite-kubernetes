@@ -1,7 +1,6 @@
 using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.DocumentModel;
 using Microsoft.AspNetCore.Mvc;
-using System.Net;
 
 using DepartmentService.Models;
 
@@ -53,7 +52,7 @@ public class DepartmentController : ControllerBase
             {
                 EmployeeID = result.Id,
                 EmployeeName = result.FirstName + " " + result.LastName,
-                EmployeeProfileURL = $"{Dns.GetHostName()}/peoplesuite/apis/employees/{result.Id}/profile"
+                EmployeeProfileURL = $"/peoplesuite/apis/employees/{result.Id}/profile"
             });
         }
 
