@@ -8,10 +8,10 @@ source $SCRIPTS_DIR/load-env-data.sh
 # Create Fargate profiles for both Employee and Department Web API services
 eksctl create fargateprofile \
     --cluster $CLUSTER_NAME \
-    --name employee-api-fargate-profile \
-    --namespace employee-api
+    --name employee-web-api-fargate-profile \
+    --namespace employee-web-api
     
 eksctl create fargateprofile \
     --cluster $CLUSTER_NAME \
-    --name department-api-fargate-profile \
-    --namespace department-api
+    --name department-web-api-fargate-profile \
+    --namespace department-web-api
