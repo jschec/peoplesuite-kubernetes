@@ -8,7 +8,7 @@ source $SCRIPTS_DIR/load-env-data.sh
 # Create ALB Policy
 policy_arn=$(aws iam create-policy \
     --policy-name EksFargateLoggingPolicy \
-    --policy-document file://infrastructure/observability-policy.json \
+    --policy-document file://infrastructure/policies/observability-policy.json \
     | jq -r .Policy.Arn )
 
 # Create service account

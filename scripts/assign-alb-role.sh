@@ -8,7 +8,7 @@ source $SCRIPTS_DIR/load-env-data.sh
 # Create ALB Policy
 policy_arn=$(aws iam create-policy \
     --policy-name AWSLoadBalancerControllerIAMPolicy \
-    --policy-document file://infrastructure/alb-iam-policy.json \
+    --policy-document file://infrastructure/policies/alb-iam-policy.json \
     | jq -r .Policy.Arn )
 
 # Create service account
