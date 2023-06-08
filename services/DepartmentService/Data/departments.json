@@ -1,0 +1,67 @@
+[
+  {
+    "id": "PeopleSuite",
+    "cost_center": "0000000000",
+    "parent_department_id": null
+  },
+  {
+    "id": "Training",
+    "cost_center": "0000000001",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Business Development",
+    "cost_center": "0000000002",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Sales",
+    "cost_center": "0000000003",
+    "parent_department_id": "Business Development"
+  },
+  {
+    "id": "Legal",
+    "cost_center": "0000000004",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Human Resources",
+    "cost_center": "0000000005",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Marketing",
+    "cost_center": "0000000006",
+    "parent_department_id": "Business Development"
+  },
+  {
+    "id": "Engineering",
+    "cost_center": "0000000007",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Product Management",
+    "cost_center": "0000000008",
+    "parent_department_id": "Engineering"
+  },
+  {
+    "id": "Research and Development",
+    "cost_center": "0000000009",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Accounting",
+    "cost_center": "0000000010",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Support",
+    "cost_center": "0000000011",
+    "parent_department_id": "PeopleSuite"
+  },
+  {
+    "id": "Services",
+    "cost_center": "0000000012",
+    "parent_department_id": "PeopleSuite"
+  }
+]
