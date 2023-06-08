@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 using EmployeeService.Models;
 using EmployeeService.Utils;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EmployeeService.Controllers;
 
@@ -25,6 +26,7 @@ public class EmployeeController : ControllerBase
         _logger = logger;
     }
     
+    [Authorize]
     [HttpGet("{employeeId}/photo")]
     public async Task<IActionResult> DownloadPhoto(string employeeId)
     {
@@ -39,6 +41,7 @@ public class EmployeeController : ControllerBase
         return Ok(new { path = objectUrl });
     }
     
+    [Authorize]
     [HttpPost("{employeeId}/photo")]
     public async Task<IActionResult> UploadPhoto(
         string employeeId, [FromForm] IFormFile file)
@@ -53,6 +56,7 @@ public class EmployeeController : ControllerBase
         return Ok();
     }
     
+    [Authorize]
     [HttpGet("{employeeId}/profile")]
     public async Task<IActionResult> GetProfileById(string employeeId)
     {
@@ -63,6 +67,7 @@ public class EmployeeController : ControllerBase
         return Ok(record);
     }
 
+    [Authorize]
     [HttpPost("{employeeId}/profile")]
     public async Task<IActionResult> CreateProfile(
         string employeeId, [FromBody] EmployeeCreate reqBody)

@@ -3,6 +3,7 @@ using Amazon.DynamoDBv2.DocumentModel;
 using Microsoft.AspNetCore.Mvc;
 
 using DepartmentService.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DepartmentService.Controllers;
 
@@ -22,6 +23,7 @@ public class DepartmentController : ControllerBase
         _logger = logger;
     }
     
+    [Authorize]
     [HttpGet]
     public async Task<IActionResult> GetRecords()
     {
@@ -32,6 +34,7 @@ public class DepartmentController : ControllerBase
         return Ok(records);
     }
 
+    [Authorize]
     [HttpGet("{departmentId}/employees")]
     public async Task<IActionResult> CreateRecord(string departmentId)
     {
