@@ -16,7 +16,7 @@
     "last_name": "Tytcomb",
     "start_date": "2014-05-25",
     "country": "PL",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Analyst Programmer",
     "manager_id": "331-635",
     "manager_name": "Griffith Tytcomb"
@@ -27,7 +27,7 @@
     "last_name": "Showen",
     "start_date": "2015-07-20",
     "country": "JP",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Administrative Assistant IV",
     "manager_id": "510-032",
     "manager_name": "Salim Showen"
@@ -38,7 +38,7 @@
     "last_name": "Ewols",
     "start_date": "2012-08-04",
     "country": "PK",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Paralegal",
     "manager_id": "440-964",
     "manager_name": "Ramsay Ewols"
@@ -60,7 +60,7 @@
     "last_name": "Oseman",
     "start_date": "2015-10-25",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Clinical Specialist",
     "manager_id": "878-930",
     "manager_name": "Rodrique Oseman"
@@ -82,7 +82,7 @@
     "last_name": "Stealy",
     "start_date": "2016-06-13",
     "country": "BO",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Environmental Specialist",
     "manager_id": "879-528",
     "manager_name": "Freda Stealy"
@@ -93,7 +93,7 @@
     "last_name": "McKean",
     "start_date": "2021-03-15",
     "country": "PE",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "VP Accounting",
     "manager_id": "963-497",
     "manager_name": "Creigh McKean"
@@ -126,7 +126,7 @@
     "last_name": "Tomkins",
     "start_date": "2016-12-02",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Database Administrator II",
     "manager_id": "491-313",
     "manager_name": "Paul Tomkins"
@@ -137,7 +137,7 @@
     "last_name": "Broomhall",
     "start_date": "2023-03-27",
     "country": "CA",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Assistant Manager",
     "manager_id": "001-499",
     "manager_name": "Rem Broomhall"
@@ -159,7 +159,7 @@
     "last_name": "Bush",
     "start_date": "2015-05-06",
     "country": "GR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Assistant Professor",
     "manager_id": "406-036",
     "manager_name": "Sioux Bush"
@@ -170,7 +170,7 @@
     "last_name": "Bodley",
     "start_date": "2021-02-02",
     "country": "BR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "VP Quality Control",
     "manager_id": "529-121",
     "manager_name": "Inger Bodley"
@@ -181,7 +181,7 @@
     "last_name": "Izkovitz",
     "start_date": "2015-10-21",
     "country": "PH",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Electrical Engineer",
     "manager_id": "652-506",
     "manager_name": "Kelci Izkovitz"
@@ -192,7 +192,7 @@
     "last_name": "Steely",
     "start_date": "2019-08-24",
     "country": "YE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Technical Writer",
     "manager_id": "410-320",
     "manager_name": "Fayina Steely"
@@ -203,7 +203,7 @@
     "last_name": "Eaden",
     "start_date": "2012-07-14",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Paralegal",
     "manager_id": "741-263",
     "manager_name": "Isabel Eaden"
@@ -225,7 +225,7 @@
     "last_name": "Reddell",
     "start_date": "2017-09-20",
     "country": "RU",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Quality Engineer",
     "manager_id": "559-580",
     "manager_name": "Marji Reddell"
@@ -236,8 +236,8 @@
     "last_name": "Durston",
     "start_date": "2012-03-21",
     "country": "PT",
-    "department_name": "Product Management",
-    "title": "Human Resources Manager",
+    "department_name": "Product-Management",
+    "title": "Human-Resources Manager",
     "manager_id": "906-058",
     "manager_name": "Carena Durston"
   },
@@ -247,7 +247,7 @@
     "last_name": "Crosham",
     "start_date": "2021-10-09",
     "country": "RU",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Help Desk Operator",
     "manager_id": "476-730",
     "manager_name": "Leandra Crosham"
@@ -280,7 +280,7 @@
     "last_name": "Conaboy",
     "start_date": "2013-12-20",
     "country": "SE",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Nurse",
     "manager_id": "037-335",
     "manager_name": "Daniel Conaboy"
@@ -324,7 +324,7 @@
     "last_name": "Palatini",
     "start_date": "2018-06-22",
     "country": "PT",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Help Desk Technician",
     "manager_id": "612-947",
     "manager_name": "Lula Palatini"
@@ -357,7 +357,7 @@
     "last_name": "O'Scanlon",
     "start_date": "2023-03-03",
     "country": "PT",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Business Systems Development Analyst",
     "manager_id": "842-111",
     "manager_name": "Gunar O'Scanlon"
@@ -401,7 +401,7 @@
     "last_name": "Brandoni",
     "start_date": "2010-11-27",
     "country": "TH",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Senior Quality Engineer",
     "manager_id": "131-268",
     "manager_name": "Olin Brandoni"
@@ -445,7 +445,7 @@
     "last_name": "Gervaise",
     "start_date": "2020-02-27",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Desktop Support Technician",
     "manager_id": "998-682",
     "manager_name": "Charil Gervaise"
@@ -478,7 +478,7 @@
     "last_name": "Abys",
     "start_date": "2019-03-13",
     "country": "TZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Food Chemist",
     "manager_id": "308-359",
     "manager_name": "Forster Abys"
@@ -566,8 +566,8 @@
     "last_name": "MacComiskey",
     "start_date": "2020-07-05",
     "country": "BR",
-    "department_name": "Research and Development",
-    "title": "Human Resources Manager",
+    "department_name": "Research-and-Development",
+    "title": "Human-Resources Manager",
     "manager_id": "469-856",
     "manager_name": "Madelle MacComiskey"
   },
@@ -588,7 +588,7 @@
     "last_name": "Tutin",
     "start_date": "2023-04-29",
     "country": "SD",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Administrative Assistant I",
     "manager_id": "080-073",
     "manager_name": "Kimbell Tutin"
@@ -643,7 +643,7 @@
     "last_name": "Tamplin",
     "start_date": "2011-12-20",
     "country": "SY",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Payment Adjustment Coordinator",
     "manager_id": "739-795",
     "manager_name": "Cchaddie Tamplin"
@@ -654,7 +654,7 @@
     "last_name": "Sirl",
     "start_date": "2013-02-27",
     "country": "FI",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Nuclear Power Engineer",
     "manager_id": "970-851",
     "manager_name": "Blanch Sirl"
@@ -687,7 +687,7 @@
     "last_name": "Sparrowe",
     "start_date": "2021-07-22",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Graphic Designer",
     "manager_id": "997-970",
     "manager_name": "Benedick Sparrowe"
@@ -698,7 +698,7 @@
     "last_name": "Gane",
     "start_date": "2021-06-26",
     "country": "IQ",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Analog Circuit Design manager",
     "manager_id": "420-004",
     "manager_name": "Murdock Gane"
@@ -709,7 +709,7 @@
     "last_name": "Matskiv",
     "start_date": "2014-06-29",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Associate Professor",
     "manager_id": "016-560",
     "manager_name": "Adey Matskiv"
@@ -720,7 +720,7 @@
     "last_name": "Semkins",
     "start_date": "2010-06-27",
     "country": "EE",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "General Manager",
     "manager_id": "178-560",
     "manager_name": "Addia Semkins"
@@ -731,7 +731,7 @@
     "last_name": "Jimmes",
     "start_date": "2020-12-22",
     "country": "PY",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Business Systems Development Analyst",
     "manager_id": "491-213",
     "manager_name": "Foss Jimmes"
@@ -742,8 +742,8 @@
     "last_name": "Cota",
     "start_date": "2018-11-15",
     "country": "ID",
-    "department_name": "Product Management",
-    "title": "Human Resources Manager",
+    "department_name": "Product-Management",
+    "title": "Human-Resources Manager",
     "manager_id": "531-371",
     "manager_name": "Felisha Cota"
   },
@@ -808,8 +808,8 @@
     "last_name": "Butland",
     "start_date": "2022-05-08",
     "country": "CO",
-    "department_name": "Product Management",
-    "title": "Human Resources Manager",
+    "department_name": "Product-Management",
+    "title": "Human-Resources Manager",
     "manager_id": "546-044",
     "manager_name": "Dean Butland"
   },
@@ -819,7 +819,7 @@
     "last_name": "Hoonahan",
     "start_date": "2011-07-22",
     "country": "CL",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Community Outreach Specialist",
     "manager_id": "120-903",
     "manager_name": "Claresta Hoonahan"
@@ -896,7 +896,7 @@
     "last_name": "Scarman",
     "start_date": "2013-09-14",
     "country": "GR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "GIS Technical Architect",
     "manager_id": "058-521",
     "manager_name": "Winn Scarman"
@@ -918,7 +918,7 @@
     "last_name": "Beardwood",
     "start_date": "2013-01-27",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Structural Engineer",
     "manager_id": "582-704",
     "manager_name": "Franny Beardwood"
@@ -973,7 +973,7 @@
     "last_name": "Jefferys",
     "start_date": "2020-11-17",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Help Desk Operator",
     "manager_id": "076-207",
     "manager_name": "Babs Jefferys"
@@ -995,7 +995,7 @@
     "last_name": "O'Cuddie",
     "start_date": "2018-07-21",
     "country": "CH",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Financial Advisor",
     "manager_id": "649-016",
     "manager_name": "Athene O'Cuddie"
@@ -1006,7 +1006,7 @@
     "last_name": "Roddy",
     "start_date": "2019-09-21",
     "country": "CU",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Tax Accountant",
     "manager_id": "331-060",
     "manager_name": "Lianna Roddy"
@@ -1028,7 +1028,7 @@
     "last_name": "Watts",
     "start_date": "2018-10-02",
     "country": "RU",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Executive Secretary",
     "manager_id": "296-805",
     "manager_name": "Hedvige Watts"
@@ -1050,7 +1050,7 @@
     "last_name": "Christescu",
     "start_date": "2011-12-22",
     "country": "FR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Social Worker",
     "manager_id": "385-447",
     "manager_name": "Cherrita Christescu"
@@ -1105,7 +1105,7 @@
     "last_name": "Ronnay",
     "start_date": "2016-03-06",
     "country": "VN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Systems Administrator III",
     "manager_id": "671-601",
     "manager_name": "Shoshanna Ronnay"
@@ -1127,7 +1127,7 @@
     "last_name": "Meech",
     "start_date": "2016-09-24",
     "country": "US",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Analog Circuit Design manager",
     "manager_id": "833-421",
     "manager_name": "Granger Meech"
@@ -1138,7 +1138,7 @@
     "last_name": "Dreghorn",
     "start_date": "2013-03-03",
     "country": "GR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Quality Engineer",
     "manager_id": "278-097",
     "manager_name": "Barri Dreghorn"
@@ -1160,7 +1160,7 @@
     "last_name": "Goady",
     "start_date": "2022-08-05",
     "country": "SE",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Compensation Analyst",
     "manager_id": "586-797",
     "manager_name": "Daveta Goady"
@@ -1171,7 +1171,7 @@
     "last_name": "Sutliff",
     "start_date": "2018-02-18",
     "country": "BR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "VP Sales",
     "manager_id": "153-483",
     "manager_name": "Simonne Sutliff"
@@ -1193,7 +1193,7 @@
     "last_name": "Dellenbrook",
     "start_date": "2020-08-28",
     "country": "AR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Chief Design Engineer",
     "manager_id": "176-071",
     "manager_name": "Ursala Dellenbrook"
@@ -1248,7 +1248,7 @@
     "last_name": "Rubinovici",
     "start_date": "2019-12-05",
     "country": "JP",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Accountant I",
     "manager_id": "573-316",
     "manager_name": "Kippar Rubinovici"
@@ -1281,7 +1281,7 @@
     "last_name": "Orritt",
     "start_date": "2019-11-27",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Tax Accountant",
     "manager_id": "711-579",
     "manager_name": "Tremaine Orritt"
@@ -1292,7 +1292,7 @@
     "last_name": "Menezes",
     "start_date": "2018-12-02",
     "country": "NG",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "GIS Technical Architect",
     "manager_id": "465-884",
     "manager_name": "Vernon Menezes"
@@ -1336,7 +1336,7 @@
     "last_name": "Lembrick",
     "start_date": "2019-04-16",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Tax Accountant",
     "manager_id": "930-462",
     "manager_name": "Krysta Lembrick"
@@ -1358,7 +1358,7 @@
     "last_name": "Maddie",
     "start_date": "2010-09-11",
     "country": "EC",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Data Coordinator",
     "manager_id": "753-588",
     "manager_name": "Eimile Maddie"
@@ -1369,7 +1369,7 @@
     "last_name": "Weldon",
     "start_date": "2022-12-10",
     "country": "FI",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Budget/Accounting Analyst I",
     "manager_id": "103-986",
     "manager_name": "Eden Weldon"
@@ -1402,7 +1402,7 @@
     "last_name": "Philippard",
     "start_date": "2020-08-31",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Senior Quality Engineer",
     "manager_id": "036-267",
     "manager_name": "Angelia Philippard"
@@ -1424,7 +1424,7 @@
     "last_name": "Howett",
     "start_date": "2019-05-11",
     "country": "BR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Systems Administrator IV",
     "manager_id": "756-012",
     "manager_name": "Philly Howett"
@@ -1501,7 +1501,7 @@
     "last_name": "Simonian",
     "start_date": "2016-03-20",
     "country": "PE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Senior Developer",
     "manager_id": "310-651",
     "manager_name": "Henriette Simonian"
@@ -1534,7 +1534,7 @@
     "last_name": "Killen",
     "start_date": "2013-09-24",
     "country": "KZ",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Nurse",
     "manager_id": "809-173",
     "manager_name": "Marion Killen"
@@ -1556,7 +1556,7 @@
     "last_name": "Pattington",
     "start_date": "2019-06-30",
     "country": "PH",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Systems Administrator I",
     "manager_id": "082-828",
     "manager_name": "Rockie Pattington"
@@ -1567,7 +1567,7 @@
     "last_name": "McFade",
     "start_date": "2019-04-06",
     "country": "DE",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Chemical Engineer",
     "manager_id": "677-464",
     "manager_name": "Goldi McFade"
@@ -1589,7 +1589,7 @@
     "last_name": "Marxsen",
     "start_date": "2012-11-02",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Design Engineer",
     "manager_id": "852-968",
     "manager_name": "Ella Marxsen"
@@ -1600,7 +1600,7 @@
     "last_name": "Dulieu",
     "start_date": "2023-01-13",
     "country": "MG",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Payment Adjustment Coordinator",
     "manager_id": "805-732",
     "manager_name": "Tobie Dulieu"
@@ -1644,7 +1644,7 @@
     "last_name": "Burstow",
     "start_date": "2013-06-07",
     "country": "RU",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Quality Control Specialist",
     "manager_id": "770-352",
     "manager_name": "Leland Burstow"
@@ -1666,7 +1666,7 @@
     "last_name": "Splevins",
     "start_date": "2012-07-26",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Speech Pathologist",
     "manager_id": "894-402",
     "manager_name": "Selia Splevins"
@@ -1699,7 +1699,7 @@
     "last_name": "Jessett",
     "start_date": "2020-11-14",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Operator",
     "manager_id": "835-953",
     "manager_name": "Carlotta Jessett"
@@ -1732,7 +1732,7 @@
     "last_name": "Gration",
     "start_date": "2011-11-28",
     "country": "RU",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Registered Nurse",
     "manager_id": "248-733",
     "manager_name": "Dottie Gration"
@@ -1754,7 +1754,7 @@
     "last_name": "Stammers",
     "start_date": "2020-07-16",
     "country": "PT",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Pharmacist",
     "manager_id": "144-968",
     "manager_name": "Phillie Stammers"
@@ -1798,7 +1798,7 @@
     "last_name": "Abbis",
     "start_date": "2023-04-10",
     "country": "CR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Design Engineer",
     "manager_id": "987-884",
     "manager_name": "Nollie Abbis"
@@ -1865,7 +1865,7 @@
     "start_date": "2021-07-28",
     "country": "HR",
     "department_name": "Marketing",
-    "title": "Human Resources Assistant III",
+    "title": "Human-Resources Assistant III",
     "manager_id": "129-471",
     "manager_name": "Myrlene Arent"
   },
@@ -1875,7 +1875,7 @@
     "last_name": "Paddock",
     "start_date": "2013-11-23",
     "country": "CZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Tax Accountant",
     "manager_id": "963-064",
     "manager_name": "Horacio Paddock"
@@ -1941,7 +1941,7 @@
     "last_name": "Burkert",
     "start_date": "2020-04-28",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Professor",
     "manager_id": "488-594",
     "manager_name": "Kerrie Burkert"
@@ -1952,7 +1952,7 @@
     "last_name": "Polly",
     "start_date": "2021-01-04",
     "country": "ID",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Staff Scientist",
     "manager_id": "586-274",
     "manager_name": "Bendick Polly"
@@ -1974,7 +1974,7 @@
     "last_name": "Margiotta",
     "start_date": "2010-08-31",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Quality Engineer",
     "manager_id": "342-411",
     "manager_name": "Paddie Margiotta"
@@ -1996,7 +1996,7 @@
     "last_name": "Blackhurst",
     "start_date": "2021-10-18",
     "country": "RU",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Geological Engineer",
     "manager_id": "990-482",
     "manager_name": "Levon Blackhurst"
@@ -2018,7 +2018,7 @@
     "last_name": "Lindenbaum",
     "start_date": "2012-01-30",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Senior Financial Analyst",
     "manager_id": "343-179",
     "manager_name": "Georgena Lindenbaum"
@@ -2029,7 +2029,7 @@
     "last_name": "Deinert",
     "start_date": "2017-07-22",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Sales Representative",
     "manager_id": "710-767",
     "manager_name": "Cherey Deinert"
@@ -2051,7 +2051,7 @@
     "last_name": "Kuban",
     "start_date": "2017-05-26",
     "country": "VN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Software Engineer IV",
     "manager_id": "685-643",
     "manager_name": "Pat Kuban"
@@ -2117,8 +2117,8 @@
     "last_name": "Cameron",
     "start_date": "2022-10-05",
     "country": "PW",
-    "department_name": "Research and Development",
-    "title": "Human Resources Manager",
+    "department_name": "Research-and-Development",
+    "title": "Human-Resources Manager",
     "manager_id": "838-425",
     "manager_name": "Patricio Cameron"
   },
@@ -2128,8 +2128,8 @@
     "last_name": "Trownson",
     "start_date": "2022-12-01",
     "country": "ID",
-    "department_name": "Human Resources",
-    "title": "Human Resources Manager",
+    "department_name": "Human-Resources",
+    "title": "Human-Resources Manager",
     "manager_id": "792-919",
     "manager_name": "Wyatt Trownson"
   },
@@ -2139,7 +2139,7 @@
     "last_name": "Colquitt",
     "start_date": "2015-02-04",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Structural Analysis Engineer",
     "manager_id": "616-700",
     "manager_name": "Tricia Colquitt"
@@ -2150,7 +2150,7 @@
     "last_name": "Swinburn",
     "start_date": "2010-11-30",
     "country": "TH",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Information Systems Manager",
     "manager_id": "209-764",
     "manager_name": "Sly Swinburn"
@@ -2161,7 +2161,7 @@
     "last_name": "Quilty",
     "start_date": "2011-07-03",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Geological Engineer",
     "manager_id": "258-076",
     "manager_name": "Shell Quilty"
@@ -2227,7 +2227,7 @@
     "last_name": "Davy",
     "start_date": "2018-03-16",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Junior Executive",
     "manager_id": "856-098",
     "manager_name": "Dru Davy"
@@ -2271,7 +2271,7 @@
     "last_name": "Preuvost",
     "start_date": "2013-01-30",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Registered Nurse",
     "manager_id": "312-115",
     "manager_name": "Loy Preuvost"
@@ -2371,7 +2371,7 @@
     "start_date": "2023-04-18",
     "country": "BR",
     "department_name": "Marketing",
-    "title": "Human Resources Assistant III",
+    "title": "Human-Resources Assistant III",
     "manager_id": "664-087",
     "manager_name": "Randi Gibbe"
   },
@@ -2425,7 +2425,7 @@
     "last_name": "O'Bruen",
     "start_date": "2014-05-25",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Financial Analyst",
     "manager_id": "713-144",
     "manager_name": "Dud O'Bruen"
@@ -2447,7 +2447,7 @@
     "last_name": "Ingilson",
     "start_date": "2021-01-31",
     "country": "CO",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Programmer IV",
     "manager_id": "769-170",
     "manager_name": "Tracy Ingilson"
@@ -2491,7 +2491,7 @@
     "last_name": "Clout",
     "start_date": "2022-06-27",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Programmer Analyst IV",
     "manager_id": "898-271",
     "manager_name": "Darnall Clout"
@@ -2579,7 +2579,7 @@
     "last_name": "Fulstow",
     "start_date": "2020-12-17",
     "country": "CA",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Analyst Programmer",
     "manager_id": "591-957",
     "manager_name": "Verena Fulstow"
@@ -2601,7 +2601,7 @@
     "last_name": "Benne",
     "start_date": "2011-10-23",
     "country": "PH",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Computer Systems Analyst I",
     "manager_id": "127-549",
     "manager_name": "Constantine Benne"
@@ -2612,8 +2612,8 @@
     "last_name": "Holdey",
     "start_date": "2022-09-21",
     "country": "TZ",
-    "department_name": "Research and Development",
-    "title": "Human Resources Assistant III",
+    "department_name": "Research-and-Development",
+    "title": "Human-Resources Assistant III",
     "manager_id": "449-862",
     "manager_name": "Art Holdey"
   },
@@ -2645,7 +2645,7 @@
     "last_name": "Ind",
     "start_date": "2019-04-19",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Environmental Tech",
     "manager_id": "369-246",
     "manager_name": "Cecelia Ind"
@@ -2701,7 +2701,7 @@
     "start_date": "2016-03-25",
     "country": "BD",
     "department_name": "Services",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "058-705",
     "manager_name": "Ketty Le Gallo"
   },
@@ -2744,7 +2744,7 @@
     "last_name": "Postins",
     "start_date": "2022-06-05",
     "country": "NL",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Administrative Assistant I",
     "manager_id": "573-959",
     "manager_name": "Sharona Postins"
@@ -2865,7 +2865,7 @@
     "last_name": "Schulze",
     "start_date": "2020-11-01",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Programmer III",
     "manager_id": "852-086",
     "manager_name": "Octavius Schulze"
@@ -2887,7 +2887,7 @@
     "last_name": "Hurst",
     "start_date": "2019-09-12",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Software Engineer II",
     "manager_id": "972-375",
     "manager_name": "Gayleen Hurst"
@@ -2931,7 +2931,7 @@
     "last_name": "Bollam",
     "start_date": "2015-02-19",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Environmental Tech",
     "manager_id": "800-637",
     "manager_name": "Cornie Bollam"
@@ -2953,7 +2953,7 @@
     "last_name": "Stang-Gjertsen",
     "start_date": "2018-11-27",
     "country": "LV",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Associate Professor",
     "manager_id": "971-148",
     "manager_name": "Harwilll Stang-Gjertsen"
@@ -2997,7 +2997,7 @@
     "last_name": "Klos",
     "start_date": "2016-11-12",
     "country": "FI",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "VP Sales",
     "manager_id": "834-927",
     "manager_name": "Alica Klos"
@@ -3008,7 +3008,7 @@
     "last_name": "Andriessen",
     "start_date": "2022-06-05",
     "country": "PL",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Design Engineer",
     "manager_id": "055-416",
     "manager_name": "Basil Andriessen"
@@ -3053,7 +3053,7 @@
     "start_date": "2017-05-21",
     "country": "RU",
     "department_name": "Sales",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "329-251",
     "manager_name": "Brandice Jeandet"
   },
@@ -3063,7 +3063,7 @@
     "last_name": "Slopier",
     "start_date": "2014-09-27",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Automation Specialist I",
     "manager_id": "694-247",
     "manager_name": "Annalise Slopier"
@@ -3075,7 +3075,7 @@
     "start_date": "2011-07-05",
     "country": "CW",
     "department_name": "Engineering",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "861-454",
     "manager_name": "Morse Klauber"
   },
@@ -3085,7 +3085,7 @@
     "last_name": "Officer",
     "start_date": "2011-04-17",
     "country": "YE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Actuary",
     "manager_id": "856-410",
     "manager_name": "Annabella Officer"
@@ -3096,7 +3096,7 @@
     "last_name": "Ayers",
     "start_date": "2018-10-02",
     "country": "GR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Clinical Specialist",
     "manager_id": "204-133",
     "manager_name": "Francklyn Ayers"
@@ -3129,7 +3129,7 @@
     "last_name": "Duthie",
     "start_date": "2020-10-14",
     "country": "PK",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Electrical Engineer",
     "manager_id": "310-771",
     "manager_name": "Anissa Duthie"
@@ -3140,7 +3140,7 @@
     "last_name": "Kynder",
     "start_date": "2018-08-20",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Help Desk Operator",
     "manager_id": "649-138",
     "manager_name": "Lorita Kynder"
@@ -3162,7 +3162,7 @@
     "last_name": "MacVicar",
     "start_date": "2017-04-26",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Legal Assistant",
     "manager_id": "088-205",
     "manager_name": "Sybyl MacVicar"
@@ -3184,7 +3184,7 @@
     "last_name": "Schistl",
     "start_date": "2011-10-09",
     "country": "PH",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Chief Design Engineer",
     "manager_id": "894-601",
     "manager_name": "Brittni Schistl"
@@ -3195,7 +3195,7 @@
     "last_name": "Scrivin",
     "start_date": "2014-07-29",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Senior Editor",
     "manager_id": "893-793",
     "manager_name": "Yance Scrivin"
@@ -3217,7 +3217,7 @@
     "last_name": "Heibel",
     "start_date": "2010-07-30",
     "country": "ID",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Recruiting Manager",
     "manager_id": "613-021",
     "manager_name": "Modestia Heibel"
@@ -3239,7 +3239,7 @@
     "last_name": "Giscken",
     "start_date": "2022-11-24",
     "country": "ZM",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Editor",
     "manager_id": "100-409",
     "manager_name": "Angeline Giscken"
@@ -3261,7 +3261,7 @@
     "last_name": "Tripney",
     "start_date": "2018-05-26",
     "country": "CZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Help Desk Technician",
     "manager_id": "618-200",
     "manager_name": "Morgun Tripney"
@@ -3294,7 +3294,7 @@
     "last_name": "Kinnerley",
     "start_date": "2010-11-14",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Technical Writer",
     "manager_id": "109-168",
     "manager_name": "Grayce Kinnerley"
@@ -3404,7 +3404,7 @@
     "last_name": "MacCulloch",
     "start_date": "2022-07-29",
     "country": "IT",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Chemical Engineer",
     "manager_id": "137-409",
     "manager_name": "Flora MacCulloch"
@@ -3492,7 +3492,7 @@
     "last_name": "Chalcroft",
     "start_date": "2013-02-14",
     "country": "PE",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Research Assistant I",
     "manager_id": "202-280",
     "manager_name": "Ferdinanda Chalcroft"
@@ -3525,7 +3525,7 @@
     "last_name": "Jelks",
     "start_date": "2011-08-23",
     "country": "SY",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Environmental Tech",
     "manager_id": "277-077",
     "manager_name": "Glenden Jelks"
@@ -3536,7 +3536,7 @@
     "last_name": "Durbin",
     "start_date": "2019-05-25",
     "country": "NG",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Chemical Engineer",
     "manager_id": "488-344",
     "manager_name": "Leonerd Durbin"
@@ -3547,7 +3547,7 @@
     "last_name": "McCrory",
     "start_date": "2010-06-25",
     "country": "ZA",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Director of Sales",
     "manager_id": "107-313",
     "manager_name": "Rory McCrory"
@@ -3558,7 +3558,7 @@
     "last_name": "Nind",
     "start_date": "2020-06-17",
     "country": "ID",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Teacher",
     "manager_id": "971-857",
     "manager_name": "Vinny Nind"
@@ -3580,7 +3580,7 @@
     "last_name": "Colebrook",
     "start_date": "2022-06-29",
     "country": "CO",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Account Coordinator",
     "manager_id": "291-301",
     "manager_name": "Brittan Colebrook"
@@ -3635,7 +3635,7 @@
     "last_name": "Stein",
     "start_date": "2013-12-18",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Community Outreach Specialist",
     "manager_id": "862-816",
     "manager_name": "Dame Stein"
@@ -3657,7 +3657,7 @@
     "last_name": "Gaythor",
     "start_date": "2017-05-19",
     "country": "RU",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Design Engineer",
     "manager_id": "316-257",
     "manager_name": "Guillemette Gaythor"
@@ -3701,7 +3701,7 @@
     "last_name": "Tretwell",
     "start_date": "2019-12-30",
     "country": "UZ",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Account Executive",
     "manager_id": "484-520",
     "manager_name": "Gilberto Tretwell"
@@ -3712,7 +3712,7 @@
     "last_name": "Grealish",
     "start_date": "2012-05-15",
     "country": "NO",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Web Developer II",
     "manager_id": "985-392",
     "manager_name": "Nisse Grealish"
@@ -3734,7 +3734,7 @@
     "last_name": "Entwhistle",
     "start_date": "2019-05-07",
     "country": "CZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Administrative Officer",
     "manager_id": "125-541",
     "manager_name": "Kelcey Entwhistle"
@@ -3745,7 +3745,7 @@
     "last_name": "Reynoldson",
     "start_date": "2013-05-06",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Information Systems Manager",
     "manager_id": "197-067",
     "manager_name": "Abbie Reynoldson"
@@ -3789,7 +3789,7 @@
     "last_name": "Lebourn",
     "start_date": "2016-07-26",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Assistant Professor",
     "manager_id": "968-299",
     "manager_name": "Clarabelle Lebourn"
@@ -3833,7 +3833,7 @@
     "last_name": "Bean",
     "start_date": "2017-09-30",
     "country": "TZ",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Help Desk Technician",
     "manager_id": "198-500",
     "manager_name": "Shandee Bean"
@@ -3866,7 +3866,7 @@
     "last_name": "Olle",
     "start_date": "2021-08-22",
     "country": "AR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Marketing Manager",
     "manager_id": "833-716",
     "manager_name": "Brittne Olle"
@@ -3888,7 +3888,7 @@
     "last_name": "Murfill",
     "start_date": "2015-09-11",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Assistant Professor",
     "manager_id": "670-644",
     "manager_name": "Sibylle Murfill"
@@ -3899,7 +3899,7 @@
     "last_name": "Stearn",
     "start_date": "2011-05-08",
     "country": "US",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Senior Developer",
     "manager_id": "399-702",
     "manager_name": "Ferrel Stearn"
@@ -3910,7 +3910,7 @@
     "last_name": "Mattholie",
     "start_date": "2022-11-09",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Recruiting Manager",
     "manager_id": "864-931",
     "manager_name": "Babs Mattholie"
@@ -3932,7 +3932,7 @@
     "last_name": "Gaythorpe",
     "start_date": "2019-02-02",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Administrative Officer",
     "manager_id": "301-115",
     "manager_name": "Wileen Gaythorpe"
@@ -3943,7 +3943,7 @@
     "last_name": "Di Dello",
     "start_date": "2017-12-20",
     "country": "TH",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Speech Pathologist",
     "manager_id": "574-718",
     "manager_name": "Mollee Di Dello"
@@ -3954,7 +3954,7 @@
     "last_name": "Semens",
     "start_date": "2021-06-12",
     "country": "CA",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Help Desk Technician",
     "manager_id": "828-388",
     "manager_name": "Constantia Semens"
@@ -3987,7 +3987,7 @@
     "last_name": "Sallery",
     "start_date": "2019-02-03",
     "country": "AR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Occupational Therapist",
     "manager_id": "179-005",
     "manager_name": "Jacky Sallery"
@@ -4009,7 +4009,7 @@
     "last_name": "Monelli",
     "start_date": "2013-08-09",
     "country": "PH",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Environmental Specialist",
     "manager_id": "816-230",
     "manager_name": "Celestyna Monelli"
@@ -4053,7 +4053,7 @@
     "last_name": "Hartop",
     "start_date": "2014-07-13",
     "country": "AM",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Paralegal",
     "manager_id": "176-570",
     "manager_name": "Neal Hartop"
@@ -4075,7 +4075,7 @@
     "last_name": "Bims",
     "start_date": "2013-12-19",
     "country": "PL",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Dental Hygienist",
     "manager_id": "547-438",
     "manager_name": "Maryl Bims"
@@ -4109,7 +4109,7 @@
     "start_date": "2021-01-02",
     "country": "CN",
     "department_name": "Training",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "475-056",
     "manager_name": "Xylina Falkner"
   },
@@ -4196,7 +4196,7 @@
     "last_name": "Mowbury",
     "start_date": "2019-07-18",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Editor",
     "manager_id": "792-265",
     "manager_name": "Myriam Mowbury"
@@ -4229,7 +4229,7 @@
     "last_name": "Hughlock",
     "start_date": "2014-03-08",
     "country": "IE",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Occupational Therapist",
     "manager_id": "757-707",
     "manager_name": "Kora Hughlock"
@@ -4251,7 +4251,7 @@
     "last_name": "Bozworth",
     "start_date": "2015-03-02",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Web Designer II",
     "manager_id": "174-812",
     "manager_name": "Todd Bozworth"
@@ -4273,7 +4273,7 @@
     "last_name": "Mosson",
     "start_date": "2020-04-18",
     "country": "RS",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Statistician IV",
     "manager_id": "398-516",
     "manager_name": "Lurline Mosson"
@@ -4284,7 +4284,7 @@
     "last_name": "Birchall",
     "start_date": "2021-10-22",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Research Associate",
     "manager_id": "499-863",
     "manager_name": "Arie Birchall"
@@ -4306,7 +4306,7 @@
     "last_name": "Fisby",
     "start_date": "2015-05-24",
     "country": "US",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Speech Pathologist",
     "manager_id": "400-383",
     "manager_name": "Mira Fisby"
@@ -4328,7 +4328,7 @@
     "last_name": "Hupe",
     "start_date": "2021-01-30",
     "country": "FR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Analog Circuit Design manager",
     "manager_id": "189-050",
     "manager_name": "Frederica Hupe"
@@ -4350,7 +4350,7 @@
     "last_name": "Stitcher",
     "start_date": "2010-06-13",
     "country": "PL",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Occupational Therapist",
     "manager_id": "694-119",
     "manager_name": "Natale Stitcher"
@@ -4394,7 +4394,7 @@
     "last_name": "Orritt",
     "start_date": "2021-11-02",
     "country": "ID",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Cost Accountant",
     "manager_id": "802-094",
     "manager_name": "Bendite Orritt"
@@ -4405,7 +4405,7 @@
     "last_name": "Whellans",
     "start_date": "2021-04-06",
     "country": "MR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Safety Technician I",
     "manager_id": "347-339",
     "manager_name": "Marline Whellans"
@@ -4416,7 +4416,7 @@
     "last_name": "Ripsher",
     "start_date": "2018-08-19",
     "country": "RU",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Environmental Tech",
     "manager_id": "157-189",
     "manager_name": "Ruthe Ripsher"
@@ -4526,7 +4526,7 @@
     "last_name": "Lingfoot",
     "start_date": "2014-08-26",
     "country": "SO",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Quality Control Specialist",
     "manager_id": "458-697",
     "manager_name": "Fredric Lingfoot"
@@ -4548,7 +4548,7 @@
     "last_name": "Biagioni",
     "start_date": "2012-10-04",
     "country": "PE",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Community Outreach Specialist",
     "manager_id": "210-829",
     "manager_name": "Lib Biagioni"
@@ -4570,7 +4570,7 @@
     "last_name": "Maxfield",
     "start_date": "2017-10-28",
     "country": "MY",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Structural Analysis Engineer",
     "manager_id": "621-888",
     "manager_name": "Cos Maxfield"
@@ -4636,7 +4636,7 @@
     "last_name": "Castan",
     "start_date": "2018-07-15",
     "country": "JP",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Paralegal",
     "manager_id": "944-952",
     "manager_name": "Ebenezer Castan"
@@ -4658,7 +4658,7 @@
     "last_name": "Dorken",
     "start_date": "2016-08-08",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Account Coordinator",
     "manager_id": "023-732",
     "manager_name": "Auroora Dorken"
@@ -4691,7 +4691,7 @@
     "last_name": "Letford",
     "start_date": "2013-06-22",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Chemical Engineer",
     "manager_id": "824-538",
     "manager_name": "Luca Letford"
@@ -4713,7 +4713,7 @@
     "last_name": "Siderfin",
     "start_date": "2023-04-18",
     "country": "SE",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Paralegal",
     "manager_id": "190-394",
     "manager_name": "Rosalinde Siderfin"
@@ -4735,7 +4735,7 @@
     "last_name": "Giddens",
     "start_date": "2015-09-04",
     "country": "PL",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Cost Accountant",
     "manager_id": "361-288",
     "manager_name": "Jude Giddens"
@@ -4746,7 +4746,7 @@
     "last_name": "O'Bradane",
     "start_date": "2020-11-01",
     "country": "GW",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Financial Analyst",
     "manager_id": "892-908",
     "manager_name": "Jackie O'Bradane"
@@ -4757,7 +4757,7 @@
     "last_name": "Elgy",
     "start_date": "2012-09-13",
     "country": "EG",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "VP Accounting",
     "manager_id": "251-781",
     "manager_name": "Cassie Elgy"
@@ -4768,7 +4768,7 @@
     "last_name": "Farran",
     "start_date": "2019-09-06",
     "country": "FR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Geological Engineer",
     "manager_id": "522-531",
     "manager_name": "Eudora Farran"
@@ -4779,7 +4779,7 @@
     "last_name": "Loder",
     "start_date": "2014-09-06",
     "country": "FI",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Tax Accountant",
     "manager_id": "867-616",
     "manager_name": "Karleen Loder"
@@ -4812,7 +4812,7 @@
     "last_name": "De Luna",
     "start_date": "2022-08-23",
     "country": "PE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Legal Assistant",
     "manager_id": "629-014",
     "manager_name": "Rennie De Luna"
@@ -4834,7 +4834,7 @@
     "last_name": "Mouget",
     "start_date": "2015-03-03",
     "country": "HT",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Programmer Analyst I",
     "manager_id": "829-752",
     "manager_name": "Corina Mouget"
@@ -4867,7 +4867,7 @@
     "last_name": "Tordoff",
     "start_date": "2010-10-02",
     "country": "JP",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Chief Design Engineer",
     "manager_id": "727-811",
     "manager_name": "Robinet Tordoff"
@@ -4955,7 +4955,7 @@
     "last_name": "Jozefowicz",
     "start_date": "2016-04-11",
     "country": "NG",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Pharmacist",
     "manager_id": "234-788",
     "manager_name": "Dorri Jozefowicz"
@@ -4966,7 +4966,7 @@
     "last_name": "Rawes",
     "start_date": "2012-06-10",
     "country": "PH",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "VP Sales",
     "manager_id": "882-168",
     "manager_name": "Elsey Rawes"
@@ -5043,7 +5043,7 @@
     "last_name": "Loker",
     "start_date": "2014-04-26",
     "country": "AM",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Quality Control Specialist",
     "manager_id": "792-194",
     "manager_name": "Hughie Loker"
@@ -5054,7 +5054,7 @@
     "last_name": "Davis",
     "start_date": "2018-09-01",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Account Executive",
     "manager_id": "058-514",
     "manager_name": "Chrisse Davis"
@@ -5065,7 +5065,7 @@
     "last_name": "Raubheim",
     "start_date": "2020-10-31",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Quality Engineer",
     "manager_id": "219-165",
     "manager_name": "Lyell Raubheim"
@@ -5120,7 +5120,7 @@
     "last_name": "Doghartie",
     "start_date": "2011-02-17",
     "country": "AR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Compensation Analyst",
     "manager_id": "662-680",
     "manager_name": "Christa Doghartie"
@@ -5131,7 +5131,7 @@
     "last_name": "Schultze",
     "start_date": "2018-01-03",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Community Outreach Specialist",
     "manager_id": "178-057",
     "manager_name": "Carolus Schultze"
@@ -5142,7 +5142,7 @@
     "last_name": "Blasio",
     "start_date": "2013-08-13",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Geological Engineer",
     "manager_id": "139-557",
     "manager_name": "Herold Blasio"
@@ -5153,7 +5153,7 @@
     "last_name": "Fobidge",
     "start_date": "2019-03-14",
     "country": "EG",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Analyst Programmer",
     "manager_id": "292-832",
     "manager_name": "Marybeth Fobidge"
@@ -5164,7 +5164,7 @@
     "last_name": "Saiger",
     "start_date": "2012-06-06",
     "country": "PL",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Marketing Assistant",
     "manager_id": "003-137",
     "manager_name": "Basilio Saiger"
@@ -5198,7 +5198,7 @@
     "start_date": "2023-05-12",
     "country": "CN",
     "department_name": "Engineering",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "656-956",
     "manager_name": "Dorthea Drummond"
   },
@@ -5252,7 +5252,7 @@
     "last_name": "Mucillo",
     "start_date": "2022-05-20",
     "country": "FR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Account Representative IV",
     "manager_id": "047-950",
     "manager_name": "Brynn Mucillo"
@@ -5274,7 +5274,7 @@
     "last_name": "Greatex",
     "start_date": "2013-03-24",
     "country": "PK",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Community Outreach Specialist",
     "manager_id": "845-284",
     "manager_name": "Cindi Greatex"
@@ -5340,7 +5340,7 @@
     "last_name": "Abramowsky",
     "start_date": "2021-06-10",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Programmer IV",
     "manager_id": "808-877",
     "manager_name": "Devin Abramowsky"
@@ -5351,7 +5351,7 @@
     "last_name": "Torri",
     "start_date": "2017-02-17",
     "country": "CZ",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Chemical Engineer",
     "manager_id": "846-831",
     "manager_name": "Muriel Torri"
@@ -5395,7 +5395,7 @@
     "last_name": "Najera",
     "start_date": "2018-02-21",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Associate Professor",
     "manager_id": "849-039",
     "manager_name": "Andeee Najera"
@@ -5406,7 +5406,7 @@
     "last_name": "Killeley",
     "start_date": "2019-06-28",
     "country": "PH",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Software Test Engineer II",
     "manager_id": "557-012",
     "manager_name": "Theressa Killeley"
@@ -5417,7 +5417,7 @@
     "last_name": "Brecher",
     "start_date": "2013-09-22",
     "country": "MN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Food Chemist",
     "manager_id": "291-163",
     "manager_name": "Mathew Brecher"
@@ -5527,7 +5527,7 @@
     "last_name": "Puttnam",
     "start_date": "2014-08-24",
     "country": "AF",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Product Engineer",
     "manager_id": "005-479",
     "manager_name": "Guillemette Puttnam"
@@ -5549,7 +5549,7 @@
     "last_name": "Graine",
     "start_date": "2015-03-02",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Recruiting Manager",
     "manager_id": "557-740",
     "manager_name": "Kissiah Graine"
@@ -5561,7 +5561,7 @@
     "start_date": "2020-10-08",
     "country": "PL",
     "department_name": "Training",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "817-514",
     "manager_name": "Kelby Jorn"
   },
@@ -5571,7 +5571,7 @@
     "last_name": "Bradwell",
     "start_date": "2021-06-10",
     "country": "FM",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Internal Auditor",
     "manager_id": "929-206",
     "manager_name": "Nerte Bradwell"
@@ -5582,7 +5582,7 @@
     "last_name": "Albiston",
     "start_date": "2020-09-03",
     "country": "VN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Cost Accountant",
     "manager_id": "709-737",
     "manager_name": "Wandie Albiston"
@@ -5637,7 +5637,7 @@
     "last_name": "Mordecai",
     "start_date": "2021-06-10",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Sales Representative",
     "manager_id": "232-594",
     "manager_name": "Dermot Mordecai"
@@ -5648,7 +5648,7 @@
     "last_name": "Pappin",
     "start_date": "2022-10-25",
     "country": "FR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Analyst Programmer",
     "manager_id": "972-116",
     "manager_name": "Thomas Pappin"
@@ -5670,7 +5670,7 @@
     "last_name": "Egle of Germany",
     "start_date": "2011-12-31",
     "country": "PL",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Assistant Media Planner",
     "manager_id": "470-232",
     "manager_name": "Heall Egle of Germany"
@@ -5703,7 +5703,7 @@
     "last_name": "de Broke",
     "start_date": "2012-05-14",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Financial Analyst",
     "manager_id": "195-318",
     "manager_name": "Anabel de Broke"
@@ -5725,7 +5725,7 @@
     "last_name": "D'Aeth",
     "start_date": "2011-04-26",
     "country": "PL",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Staff Accountant IV",
     "manager_id": "587-316",
     "manager_name": "Florida D'Aeth"
@@ -5747,7 +5747,7 @@
     "last_name": "Durtnel",
     "start_date": "2022-11-28",
     "country": "RS",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Nurse Practicioner",
     "manager_id": "333-937",
     "manager_name": "Gale Durtnel"
@@ -5780,7 +5780,7 @@
     "last_name": "Scryne",
     "start_date": "2013-01-03",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Biostatistician IV",
     "manager_id": "532-175",
     "manager_name": "Nicoli Scryne"
@@ -5802,7 +5802,7 @@
     "last_name": "Abraham",
     "start_date": "2017-11-01",
     "country": "VN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Executive Secretary",
     "manager_id": "722-308",
     "manager_name": "Colly Abraham"
@@ -5813,7 +5813,7 @@
     "last_name": "Murthwaite",
     "start_date": "2020-11-26",
     "country": "CO",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Teacher",
     "manager_id": "357-654",
     "manager_name": "Bear Murthwaite"
@@ -5857,7 +5857,7 @@
     "last_name": "Moon",
     "start_date": "2022-06-05",
     "country": "CM",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Nuclear Power Engineer",
     "manager_id": "342-721",
     "manager_name": "Caresse Moon"
@@ -5923,7 +5923,7 @@
     "last_name": "Bernardo",
     "start_date": "2021-05-02",
     "country": "GR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Analog Circuit Design manager",
     "manager_id": "658-386",
     "manager_name": "Emmie Bernardo"
@@ -5934,7 +5934,7 @@
     "last_name": "Bakey",
     "start_date": "2018-01-07",
     "country": "JP",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Senior Editor",
     "manager_id": "661-493",
     "manager_name": "Wanids Bakey"
@@ -5956,7 +5956,7 @@
     "last_name": "Victory",
     "start_date": "2013-01-20",
     "country": "GR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Structural Engineer",
     "manager_id": "380-795",
     "manager_name": "Menard Victory"
@@ -6000,7 +6000,7 @@
     "last_name": "Martins",
     "start_date": "2017-04-05",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Software Engineer I",
     "manager_id": "896-120",
     "manager_name": "Lockwood Martins"
@@ -6077,7 +6077,7 @@
     "last_name": "Somerfield",
     "start_date": "2016-12-15",
     "country": "PL",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Health Coach IV",
     "manager_id": "156-371",
     "manager_name": "Codie Somerfield"
@@ -6121,7 +6121,7 @@
     "last_name": "McNiven",
     "start_date": "2023-02-23",
     "country": "AM",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Payment Adjustment Coordinator",
     "manager_id": "442-302",
     "manager_name": "Ali McNiven"
@@ -6187,7 +6187,7 @@
     "last_name": "Ourtic",
     "start_date": "2017-09-04",
     "country": "SI",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Staff Scientist",
     "manager_id": "004-248",
     "manager_name": "Eberto Ourtic"
@@ -6209,7 +6209,7 @@
     "last_name": "Caveill",
     "start_date": "2021-02-16",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Web Developer II",
     "manager_id": "870-867",
     "manager_name": "Wilek Caveill"
@@ -6220,7 +6220,7 @@
     "last_name": "Peters",
     "start_date": "2019-08-20",
     "country": "ID",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Quality Engineer",
     "manager_id": "443-247",
     "manager_name": "Hill Peters"
@@ -6253,7 +6253,7 @@
     "last_name": "Pietruschka",
     "start_date": "2022-02-06",
     "country": "US",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Business Systems Development Analyst",
     "manager_id": "349-965",
     "manager_name": "Anna-maria Pietruschka"
@@ -6264,7 +6264,7 @@
     "last_name": "Comer",
     "start_date": "2018-12-19",
     "country": "RU",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Developer",
     "manager_id": "011-692",
     "manager_name": "Billy Comer"
@@ -6275,7 +6275,7 @@
     "last_name": "Gommery",
     "start_date": "2013-07-21",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Information Systems Manager",
     "manager_id": "687-779",
     "manager_name": "Magda Gommery"
@@ -6286,8 +6286,8 @@
     "last_name": "Geraud",
     "start_date": "2022-05-19",
     "country": "JP",
-    "department_name": "Business Development",
-    "title": "Human Resources Manager",
+    "department_name": "Business-Development",
+    "title": "Human-Resources Manager",
     "manager_id": "485-241",
     "manager_name": "Damita Geraud"
   },
@@ -6298,7 +6298,7 @@
     "start_date": "2016-04-11",
     "country": "CM",
     "department_name": "Accounting",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "081-766",
     "manager_name": "Jerrylee Bowdidge"
   },
@@ -6308,7 +6308,7 @@
     "last_name": "Pollen",
     "start_date": "2020-05-20",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Software Consultant",
     "manager_id": "778-332",
     "manager_name": "Kay Pollen"
@@ -6319,7 +6319,7 @@
     "last_name": "Ewings",
     "start_date": "2020-07-18",
     "country": "UA",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "GIS Technical Architect",
     "manager_id": "053-187",
     "manager_name": "Stevy Ewings"
@@ -6330,7 +6330,7 @@
     "last_name": "Starbuck",
     "start_date": "2023-05-30",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "VP Quality Control",
     "manager_id": "978-909",
     "manager_name": "Zenia Starbuck"
@@ -6374,7 +6374,7 @@
     "last_name": "Etock",
     "start_date": "2014-11-14",
     "country": "FR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Health Coach II",
     "manager_id": "226-559",
     "manager_name": "Shamus Etock"
@@ -6396,7 +6396,7 @@
     "last_name": "O'Reilly",
     "start_date": "2022-05-02",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Senior Sales Associate",
     "manager_id": "215-350",
     "manager_name": "Nelli O'Reilly"
@@ -6462,7 +6462,7 @@
     "last_name": "Benny",
     "start_date": "2017-05-28",
     "country": "PH",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Developer",
     "manager_id": "993-208",
     "manager_name": "Roslyn Benny"
@@ -6473,7 +6473,7 @@
     "last_name": "Pickavance",
     "start_date": "2010-12-03",
     "country": "US",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Electrical Engineer",
     "manager_id": "212-504",
     "manager_name": "Darcey Pickavance"
@@ -6484,7 +6484,7 @@
     "last_name": "Dell'Abbate",
     "start_date": "2010-06-09",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Computer Systems Analyst III",
     "manager_id": "000-930",
     "manager_name": "Reagen Dell'Abbate"
@@ -6495,7 +6495,7 @@
     "last_name": "Kinastan",
     "start_date": "2018-02-14",
     "country": "US",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Environmental Specialist",
     "manager_id": "210-558",
     "manager_name": "Cindelyn Kinastan"
@@ -6506,7 +6506,7 @@
     "last_name": "Skaif",
     "start_date": "2022-06-26",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "VP Quality Control",
     "manager_id": "104-069",
     "manager_name": "Karisa Skaif"
@@ -6528,7 +6528,7 @@
     "last_name": "Varndell",
     "start_date": "2021-07-07",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Administrative Officer",
     "manager_id": "507-924",
     "manager_name": "Udell Varndell"
@@ -6539,7 +6539,7 @@
     "last_name": "Milliken",
     "start_date": "2021-10-06",
     "country": "PH",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Environmental Specialist",
     "manager_id": "702-511",
     "manager_name": "Renata Milliken"
@@ -6594,7 +6594,7 @@
     "last_name": "Chipps",
     "start_date": "2013-05-21",
     "country": "AR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Marketing Assistant",
     "manager_id": "725-399",
     "manager_name": "Van Chipps"
@@ -6616,7 +6616,7 @@
     "last_name": "Cuzen",
     "start_date": "2011-01-11",
     "country": "RU",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Recruiter",
     "manager_id": "388-551",
     "manager_name": "Jerrine Cuzen"
@@ -6627,7 +6627,7 @@
     "last_name": "Moubray",
     "start_date": "2015-03-15",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Environmental Tech",
     "manager_id": "293-988",
     "manager_name": "Edgar Moubray"
@@ -6693,7 +6693,7 @@
     "last_name": "MacAdam",
     "start_date": "2011-12-21",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Mechanical Systems Engineer",
     "manager_id": "238-198",
     "manager_name": "Allin MacAdam"
@@ -6716,7 +6716,7 @@
     "start_date": "2019-04-10",
     "country": "CZ",
     "department_name": "Services",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "938-324",
     "manager_name": "Car Lovel"
   },
@@ -6737,7 +6737,7 @@
     "last_name": "Dunnico",
     "start_date": "2018-01-03",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "VP Sales",
     "manager_id": "493-766",
     "manager_name": "Callean Dunnico"
@@ -6771,7 +6771,7 @@
     "start_date": "2016-08-02",
     "country": "MV",
     "department_name": "Accounting",
-    "title": "Human Resources Assistant IV",
+    "title": "Human-Resources Assistant IV",
     "manager_id": "832-710",
     "manager_name": "Margareta Wellfare"
   },
@@ -6792,7 +6792,7 @@
     "last_name": "Curtin",
     "start_date": "2011-04-19",
     "country": "KR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Senior Developer",
     "manager_id": "575-891",
     "manager_name": "Sophey Curtin"
@@ -6814,7 +6814,7 @@
     "last_name": "McFarlane",
     "start_date": "2012-10-14",
     "country": "ID",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Geologist IV",
     "manager_id": "667-742",
     "manager_name": "Fancy McFarlane"
@@ -6825,7 +6825,7 @@
     "last_name": "Sacase",
     "start_date": "2015-11-03",
     "country": "AF",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Internal Auditor",
     "manager_id": "994-736",
     "manager_name": "Norean Sacase"
@@ -6847,7 +6847,7 @@
     "last_name": "Hunn",
     "start_date": "2016-03-19",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Staff Scientist",
     "manager_id": "720-676",
     "manager_name": "Evaleen Hunn"
@@ -6858,7 +6858,7 @@
     "last_name": "Charlotte",
     "start_date": "2012-07-01",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Information Systems Manager",
     "manager_id": "675-190",
     "manager_name": "Orran Charlotte"
@@ -6891,7 +6891,7 @@
     "last_name": "Bowdery",
     "start_date": "2012-11-03",
     "country": "VE",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Structural Analysis Engineer",
     "manager_id": "061-739",
     "manager_name": "Drew Bowdery"
@@ -6913,7 +6913,7 @@
     "last_name": "Rengger",
     "start_date": "2018-01-04",
     "country": "GH",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Media Manager II",
     "manager_id": "123-904",
     "manager_name": "Sydelle Rengger"
@@ -6990,7 +6990,7 @@
     "last_name": "Showell",
     "start_date": "2013-09-11",
     "country": "UZ",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "General Manager",
     "manager_id": "840-390",
     "manager_name": "Ediva Showell"
@@ -7034,7 +7034,7 @@
     "last_name": "Pedican",
     "start_date": "2012-06-15",
     "country": "MX",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Librarian",
     "manager_id": "886-767",
     "manager_name": "Diane Pedican"
@@ -7144,7 +7144,7 @@
     "last_name": "Bernth",
     "start_date": "2017-08-27",
     "country": "US",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Compensation Analyst",
     "manager_id": "327-922",
     "manager_name": "Tamma Bernth"
@@ -7166,7 +7166,7 @@
     "last_name": "Postan",
     "start_date": "2020-11-07",
     "country": "AR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Information Systems Manager",
     "manager_id": "444-306",
     "manager_name": "Elberta Postan"
@@ -7177,7 +7177,7 @@
     "last_name": "Gilchrest",
     "start_date": "2013-02-23",
     "country": "CZ",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Assistant Professor",
     "manager_id": "137-944",
     "manager_name": "Randee Gilchrest"
@@ -7188,7 +7188,7 @@
     "last_name": "McNeachtain",
     "start_date": "2022-09-11",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Pharmacist",
     "manager_id": "354-154",
     "manager_name": "Tammy McNeachtain"
@@ -7210,7 +7210,7 @@
     "last_name": "Bridywater",
     "start_date": "2012-12-27",
     "country": "SE",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Senior Sales Associate",
     "manager_id": "777-985",
     "manager_name": "Artemis Bridywater"
@@ -7221,7 +7221,7 @@
     "last_name": "Mayall",
     "start_date": "2015-12-10",
     "country": "RS",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Software Test Engineer II",
     "manager_id": "147-842",
     "manager_name": "Hermie Mayall"
@@ -7255,7 +7255,7 @@
     "start_date": "2011-05-08",
     "country": "XK",
     "department_name": "Support",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "083-099",
     "manager_name": "Cristina Tondeur"
   },
@@ -7276,7 +7276,7 @@
     "last_name": "Firth",
     "start_date": "2014-02-22",
     "country": "BR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Cost Accountant",
     "manager_id": "365-363",
     "manager_name": "Lorna Firth"
@@ -7353,7 +7353,7 @@
     "last_name": "Hunnam",
     "start_date": "2012-01-19",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Desktop Support Technician",
     "manager_id": "708-938",
     "manager_name": "Gena Hunnam"
@@ -7397,7 +7397,7 @@
     "last_name": "Blanchette",
     "start_date": "2015-04-20",
     "country": "PE",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Librarian",
     "manager_id": "775-230",
     "manager_name": "Pablo Blanchette"
@@ -7507,7 +7507,7 @@
     "last_name": "Trench",
     "start_date": "2011-10-29",
     "country": "PT",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Social Worker",
     "manager_id": "578-793",
     "manager_name": "Ariella Trench"
@@ -7529,7 +7529,7 @@
     "last_name": "MacSkeagan",
     "start_date": "2015-06-02",
     "country": "CZ",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Senior Developer",
     "manager_id": "934-279",
     "manager_name": "Brantley MacSkeagan"
@@ -7541,7 +7541,7 @@
     "start_date": "2012-11-11",
     "country": "BR",
     "department_name": "Services",
-    "title": "Human Resources Assistant III",
+    "title": "Human-Resources Assistant III",
     "manager_id": "707-760",
     "manager_name": "Celestia Danneil"
   },
@@ -7595,7 +7595,7 @@
     "last_name": "Leving",
     "start_date": "2020-09-29",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Software Engineer II",
     "manager_id": "671-921",
     "manager_name": "Beverley Leving"
@@ -7672,7 +7672,7 @@
     "last_name": "Bastin",
     "start_date": "2017-12-27",
     "country": "HR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Environmental Specialist",
     "manager_id": "633-522",
     "manager_name": "Susan Bastin"
@@ -7694,7 +7694,7 @@
     "last_name": "Kirrage",
     "start_date": "2018-06-19",
     "country": "SE",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Staff Accountant II",
     "manager_id": "562-290",
     "manager_name": "Rudolf Kirrage"
@@ -7705,7 +7705,7 @@
     "last_name": "Powter",
     "start_date": "2016-11-15",
     "country": "SE",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Administrative Assistant III",
     "manager_id": "171-763",
     "manager_name": "Randi Powter"
@@ -7716,7 +7716,7 @@
     "last_name": "Plumptre",
     "start_date": "2017-03-19",
     "country": "BR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Administrative Assistant IV",
     "manager_id": "290-466",
     "manager_name": "Breena Plumptre"
@@ -7727,7 +7727,7 @@
     "last_name": "Vondrys",
     "start_date": "2014-02-21",
     "country": "PL",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Geological Engineer",
     "manager_id": "033-178",
     "manager_name": "Virgilio Vondrys"
@@ -7782,7 +7782,7 @@
     "last_name": "Abramowsky",
     "start_date": "2022-10-11",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Food Chemist",
     "manager_id": "515-033",
     "manager_name": "Ivett Abramowsky"
@@ -7837,7 +7837,7 @@
     "last_name": "Langlands",
     "start_date": "2016-05-08",
     "country": "VN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Physical Therapy Assistant",
     "manager_id": "562-238",
     "manager_name": "Rudd Langlands"
@@ -7881,7 +7881,7 @@
     "last_name": "Carlton",
     "start_date": "2014-03-08",
     "country": "JP",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Marketing Assistant",
     "manager_id": "748-614",
     "manager_name": "Steffi Carlton"
@@ -7914,7 +7914,7 @@
     "last_name": "Novik",
     "start_date": "2018-08-04",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Accounting Assistant IV",
     "manager_id": "358-897",
     "manager_name": "Chicky Novik"
@@ -7936,7 +7936,7 @@
     "last_name": "Clementucci",
     "start_date": "2013-04-11",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Structural Analysis Engineer",
     "manager_id": "394-516",
     "manager_name": "Shellie Clementucci"
@@ -7948,7 +7948,7 @@
     "start_date": "2015-07-16",
     "country": "RU",
     "department_name": "Support",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "334-916",
     "manager_name": "Rozalin Wigley"
   },
@@ -7958,7 +7958,7 @@
     "last_name": "Beels",
     "start_date": "2016-10-25",
     "country": "BR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Social Worker",
     "manager_id": "528-377",
     "manager_name": "Tobe Beels"
@@ -7969,7 +7969,7 @@
     "last_name": "Van der Brugge",
     "start_date": "2022-11-26",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Nurse Practicioner",
     "manager_id": "045-978",
     "manager_name": "Gavan Van der Brugge"
@@ -8002,7 +8002,7 @@
     "last_name": "Muspratt",
     "start_date": "2023-05-01",
     "country": "RU",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Developer II",
     "manager_id": "217-212",
     "manager_name": "Dwight Muspratt"
@@ -8013,7 +8013,7 @@
     "last_name": "Arrigucci",
     "start_date": "2022-06-22",
     "country": "BR",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Systems Administrator I",
     "manager_id": "533-074",
     "manager_name": "Fayette Arrigucci"
@@ -8024,7 +8024,7 @@
     "last_name": "Clows",
     "start_date": "2023-03-02",
     "country": "CA",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Paralegal",
     "manager_id": "403-263",
     "manager_name": "Liam Clows"
@@ -8046,7 +8046,7 @@
     "last_name": "Ducker",
     "start_date": "2014-04-26",
     "country": "VC",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Junior Executive",
     "manager_id": "634-029",
     "manager_name": "Blinni Ducker"
@@ -8068,7 +8068,7 @@
     "last_name": "Shilton",
     "start_date": "2011-11-05",
     "country": "SE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Administrative Officer",
     "manager_id": "261-953",
     "manager_name": "Nicholle Shilton"
@@ -8079,7 +8079,7 @@
     "last_name": "Blare",
     "start_date": "2012-01-09",
     "country": "TN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Geological Engineer",
     "manager_id": "655-837",
     "manager_name": "Aime Blare"
@@ -8101,7 +8101,7 @@
     "last_name": "Larmor",
     "start_date": "2013-01-25",
     "country": "NA",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Account Representative I",
     "manager_id": "869-706",
     "manager_name": "Felicia Larmor"
@@ -8145,7 +8145,7 @@
     "last_name": "Cashell",
     "start_date": "2020-09-05",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Media Manager III",
     "manager_id": "586-770",
     "manager_name": "Munroe Cashell"
@@ -8178,7 +8178,7 @@
     "last_name": "Janusik",
     "start_date": "2012-08-15",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Research Nurse",
     "manager_id": "302-874",
     "manager_name": "Alvina Janusik"
@@ -8201,7 +8201,7 @@
     "start_date": "2012-11-28",
     "country": "LA",
     "department_name": "Marketing",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "162-887",
     "manager_name": "Lyssa Finlay"
   },
@@ -8211,7 +8211,7 @@
     "last_name": "Moughtin",
     "start_date": "2013-09-28",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Graphic Designer",
     "manager_id": "724-404",
     "manager_name": "Sarena Moughtin"
@@ -8233,8 +8233,8 @@
     "last_name": "Karlmann",
     "start_date": "2012-03-24",
     "country": "GN",
-    "department_name": "Research and Development",
-    "title": "Human Resources Manager",
+    "department_name": "Research-and-Development",
+    "title": "Human-Resources Manager",
     "manager_id": "780-924",
     "manager_name": "Rutger Karlmann"
   },
@@ -8266,7 +8266,7 @@
     "last_name": "Mackstead",
     "start_date": "2017-06-22",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Graphic Designer",
     "manager_id": "909-198",
     "manager_name": "Beatrix Mackstead"
@@ -8288,7 +8288,7 @@
     "last_name": "Macek",
     "start_date": "2016-04-27",
     "country": "ES",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Quality Control Specialist",
     "manager_id": "675-971",
     "manager_name": "Cati Macek"
@@ -8343,7 +8343,7 @@
     "last_name": "Girton",
     "start_date": "2013-07-14",
     "country": "TZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Marketing Manager",
     "manager_id": "496-008",
     "manager_name": "Bartholomeo Girton"
@@ -8365,7 +8365,7 @@
     "last_name": "Hellin",
     "start_date": "2015-04-28",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Project Manager",
     "manager_id": "772-701",
     "manager_name": "Marti Hellin"
@@ -8376,7 +8376,7 @@
     "last_name": "Twining",
     "start_date": "2017-09-26",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Structural Engineer",
     "manager_id": "611-441",
     "manager_name": "Wendi Twining"
@@ -8387,7 +8387,7 @@
     "last_name": "Terrelly",
     "start_date": "2020-02-18",
     "country": "ID",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "GIS Technical Architect",
     "manager_id": "057-791",
     "manager_name": "Tallie Terrelly"
@@ -8420,7 +8420,7 @@
     "last_name": "Soots",
     "start_date": "2011-07-14",
     "country": "RU",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Assistant Manager",
     "manager_id": "261-270",
     "manager_name": "Roderich Soots"
@@ -8475,7 +8475,7 @@
     "last_name": "Broy",
     "start_date": "2015-09-25",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Teacher",
     "manager_id": "056-757",
     "manager_name": "Vally Broy"
@@ -8486,7 +8486,7 @@
     "last_name": "Raulstone",
     "start_date": "2014-10-18",
     "country": "CZ",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Product Engineer",
     "manager_id": "853-356",
     "manager_name": "Sascha Raulstone"
@@ -8519,7 +8519,7 @@
     "last_name": "Melville",
     "start_date": "2011-11-21",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Speech Pathologist",
     "manager_id": "551-655",
     "manager_name": "Kathye Melville"
@@ -8541,7 +8541,7 @@
     "last_name": "Timcke",
     "start_date": "2019-11-04",
     "country": "RU",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Analog Circuit Design manager",
     "manager_id": "679-892",
     "manager_name": "Ange Timcke"
@@ -8552,7 +8552,7 @@
     "last_name": "Eames",
     "start_date": "2019-07-25",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Community Outreach Specialist",
     "manager_id": "149-021",
     "manager_name": "Bancroft Eames"
@@ -8574,7 +8574,7 @@
     "last_name": "Tatlowe",
     "start_date": "2011-11-11",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Electrical Engineer",
     "manager_id": "911-546",
     "manager_name": "Aridatha Tatlowe"
@@ -8629,7 +8629,7 @@
     "last_name": "Skudder",
     "start_date": "2015-05-12",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Financial Advisor",
     "manager_id": "693-138",
     "manager_name": "Marielle Skudder"
@@ -8662,7 +8662,7 @@
     "last_name": "Dallimore",
     "start_date": "2013-10-30",
     "country": "PT",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Automation Specialist II",
     "manager_id": "549-099",
     "manager_name": "Alvie Dallimore"
@@ -8684,7 +8684,7 @@
     "last_name": "Bambridge",
     "start_date": "2017-08-15",
     "country": "JP",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Compensation Analyst",
     "manager_id": "743-886",
     "manager_name": "Pooh Bambridge"
@@ -8706,7 +8706,7 @@
     "last_name": "Winspurr",
     "start_date": "2019-03-08",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Computer Systems Analyst IV",
     "manager_id": "359-553",
     "manager_name": "Rayshell Winspurr"
@@ -8750,7 +8750,7 @@
     "last_name": "Morena",
     "start_date": "2016-09-27",
     "country": "JP",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Registered Nurse",
     "manager_id": "805-083",
     "manager_name": "Tadeas Morena"
@@ -8762,7 +8762,7 @@
     "start_date": "2016-03-11",
     "country": "CN",
     "department_name": "Marketing",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "260-202",
     "manager_name": "Drew Tremathick"
   },
@@ -8849,7 +8849,7 @@
     "last_name": "Jerson",
     "start_date": "2021-08-28",
     "country": "NG",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Sales Representative",
     "manager_id": "867-840",
     "manager_name": "Clovis Jerson"
@@ -8872,7 +8872,7 @@
     "start_date": "2022-01-14",
     "country": "LU",
     "department_name": "Services",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "033-024",
     "manager_name": "Waneta Eckley"
   },
@@ -8882,7 +8882,7 @@
     "last_name": "Flemmich",
     "start_date": "2015-02-22",
     "country": "UA",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Teacher",
     "manager_id": "125-301",
     "manager_name": "Allistir Flemmich"
@@ -8893,7 +8893,7 @@
     "last_name": "Gaitone",
     "start_date": "2012-03-07",
     "country": "PK",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Biostatistician III",
     "manager_id": "194-742",
     "manager_name": "Talya Gaitone"
@@ -8915,7 +8915,7 @@
     "last_name": "Arson",
     "start_date": "2018-03-16",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Environmental Specialist",
     "manager_id": "561-215",
     "manager_name": "Natalee Arson"
@@ -8927,7 +8927,7 @@
     "start_date": "2011-05-11",
     "country": "ZA",
     "department_name": "Services",
-    "title": "Human Resources Assistant IV",
+    "title": "Human-Resources Assistant IV",
     "manager_id": "649-266",
     "manager_name": "Gunar Hammill"
   },
@@ -8948,7 +8948,7 @@
     "last_name": "Abramamov",
     "start_date": "2017-01-25",
     "country": "PH",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Administrative Assistant II",
     "manager_id": "160-583",
     "manager_name": "Willie Abramamov"
@@ -9014,7 +9014,7 @@
     "last_name": "Baxster",
     "start_date": "2012-04-10",
     "country": "UA",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Geological Engineer",
     "manager_id": "512-612",
     "manager_name": "Gavra Baxster"
@@ -9025,7 +9025,7 @@
     "last_name": "Batalini",
     "start_date": "2011-11-01",
     "country": "US",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Internal Auditor",
     "manager_id": "754-867",
     "manager_name": "Wanda Batalini"
@@ -9102,8 +9102,8 @@
     "last_name": "Blasli",
     "start_date": "2016-06-11",
     "country": "UZ",
-    "department_name": "Business Development",
-    "title": "Human Resources Assistant IV",
+    "department_name": "Business-Development",
+    "title": "Human-Resources Assistant IV",
     "manager_id": "936-892",
     "manager_name": "Annaliese Blasli"
   },
@@ -9146,7 +9146,7 @@
     "last_name": "Giacobbo",
     "start_date": "2015-11-24",
     "country": "CN",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Software Consultant",
     "manager_id": "453-921",
     "manager_name": "Shaylah Giacobbo"
@@ -9212,8 +9212,8 @@
     "last_name": "Schops",
     "start_date": "2018-06-17",
     "country": "CN",
-    "department_name": "Product Management",
-    "title": "VP Product Management",
+    "department_name": "Product-Management",
+    "title": "VP Product-Management",
     "manager_id": "218-613",
     "manager_name": "Addi Schops"
   },
@@ -9223,7 +9223,7 @@
     "last_name": "Scargill",
     "start_date": "2022-11-30",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Chemical Engineer",
     "manager_id": "566-099",
     "manager_name": "Man Scargill"
@@ -9234,7 +9234,7 @@
     "last_name": "Malloch",
     "start_date": "2019-10-07",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Speech Pathologist",
     "manager_id": "956-980",
     "manager_name": "Arlan Malloch"
@@ -9256,7 +9256,7 @@
     "last_name": "McNirlan",
     "start_date": "2022-01-26",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Director of Sales",
     "manager_id": "831-896",
     "manager_name": "Karlene McNirlan"
@@ -9278,7 +9278,7 @@
     "last_name": "Kroch",
     "start_date": "2020-12-19",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Registered Nurse",
     "manager_id": "664-349",
     "manager_name": "Delinda Kroch"
@@ -9289,7 +9289,7 @@
     "last_name": "Armer",
     "start_date": "2016-05-14",
     "country": "RU",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Environmental Tech",
     "manager_id": "870-348",
     "manager_name": "Elinore Armer"
@@ -9312,7 +9312,7 @@
     "start_date": "2022-04-08",
     "country": "PH",
     "department_name": "Legal",
-    "title": "VP Product Management",
+    "title": "VP Product-Management",
     "manager_id": "352-261",
     "manager_name": "Brenna Schollar"
   },
@@ -9334,7 +9334,7 @@
     "start_date": "2021-09-06",
     "country": "PT",
     "department_name": "Accounting",
-    "title": "Human Resources Assistant III",
+    "title": "Human-Resources Assistant III",
     "manager_id": "916-464",
     "manager_name": "Dukey Feeham"
   },
@@ -9344,7 +9344,7 @@
     "last_name": "Pakes",
     "start_date": "2020-05-11",
     "country": "ID",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Programmer II",
     "manager_id": "633-806",
     "manager_name": "Kitty Pakes"
@@ -9377,7 +9377,7 @@
     "last_name": "Berzin",
     "start_date": "2011-03-17",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Account Executive",
     "manager_id": "068-791",
     "manager_name": "Jephthah Berzin"
@@ -9399,7 +9399,7 @@
     "last_name": "Josilowski",
     "start_date": "2014-08-05",
     "country": "NL",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Senior Editor",
     "manager_id": "642-312",
     "manager_name": "Berenice Josilowski"
@@ -9410,7 +9410,7 @@
     "last_name": "Redmore",
     "start_date": "2013-01-19",
     "country": "BR",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Nurse Practicioner",
     "manager_id": "083-319",
     "manager_name": "Marie Redmore"
@@ -9465,7 +9465,7 @@
     "last_name": "Witul",
     "start_date": "2016-02-02",
     "country": "VC",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Director of Sales",
     "manager_id": "509-654",
     "manager_name": "Carlita Witul"
@@ -9487,7 +9487,7 @@
     "last_name": "Alkins",
     "start_date": "2014-03-30",
     "country": "PE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Structural Engineer",
     "manager_id": "624-792",
     "manager_name": "Adelina Alkins"
@@ -9564,7 +9564,7 @@
     "last_name": "Daltry",
     "start_date": "2011-07-31",
     "country": "UG",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Occupational Therapist",
     "manager_id": "157-075",
     "manager_name": "Loy Daltry"
@@ -9674,7 +9674,7 @@
     "last_name": "Khilkov",
     "start_date": "2010-11-04",
     "country": "PT",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "VP Accounting",
     "manager_id": "372-133",
     "manager_name": "Josee Khilkov"
@@ -9685,7 +9685,7 @@
     "last_name": "De Andisie",
     "start_date": "2016-10-25",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Systems Administrator I",
     "manager_id": "175-666",
     "manager_name": "Vail De Andisie"
@@ -9696,7 +9696,7 @@
     "last_name": "Dansken",
     "start_date": "2017-09-29",
     "country": "CN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "VP Marketing",
     "manager_id": "218-772",
     "manager_name": "Pryce Dansken"
@@ -9729,7 +9729,7 @@
     "last_name": "Eddowes",
     "start_date": "2013-05-19",
     "country": "IT",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Developer I",
     "manager_id": "276-214",
     "manager_name": "Lyle Eddowes"
@@ -9751,7 +9751,7 @@
     "last_name": "Ruffy",
     "start_date": "2014-02-08",
     "country": "RE",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Executive Secretary",
     "manager_id": "527-120",
     "manager_name": "Zia Ruffy"
@@ -9763,7 +9763,7 @@
     "start_date": "2019-01-02",
     "country": "RS",
     "department_name": "Accounting",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "257-574",
     "manager_name": "Eada Figge"
   },
@@ -9795,7 +9795,7 @@
     "last_name": "Hellicar",
     "start_date": "2010-08-18",
     "country": "AF",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Electrical Engineer",
     "manager_id": "309-851",
     "manager_name": "Marilin Hellicar"
@@ -9817,7 +9817,7 @@
     "last_name": "Penna",
     "start_date": "2020-09-03",
     "country": "RU",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Data Coordinator",
     "manager_id": "104-771",
     "manager_name": "Saundra Penna"
@@ -9828,7 +9828,7 @@
     "last_name": "Batcheldor",
     "start_date": "2022-10-29",
     "country": "TJ",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Nuclear Power Engineer",
     "manager_id": "984-075",
     "manager_name": "Sindee Batcheldor"
@@ -9872,7 +9872,7 @@
     "last_name": "Sparling",
     "start_date": "2021-04-23",
     "country": "ID",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Design Engineer",
     "manager_id": "208-962",
     "manager_name": "Truman Sparling"
@@ -9883,7 +9883,7 @@
     "last_name": "Roony",
     "start_date": "2014-07-03",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Social Worker",
     "manager_id": "484-691",
     "manager_name": "Clarie Roony"
@@ -9894,7 +9894,7 @@
     "last_name": "Delgaty",
     "start_date": "2011-01-12",
     "country": "TZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Project Manager",
     "manager_id": "466-729",
     "manager_name": "Silvanus Delgaty"
@@ -9949,7 +9949,7 @@
     "last_name": "Gabler",
     "start_date": "2018-07-14",
     "country": "TM",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "VP Marketing",
     "manager_id": "509-372",
     "manager_name": "Spense Gabler"
@@ -9960,7 +9960,7 @@
     "last_name": "Gawkroge",
     "start_date": "2013-03-08",
     "country": "DO",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Graphic Designer",
     "manager_id": "422-751",
     "manager_name": "Edmon Gawkroge"
@@ -9982,7 +9982,7 @@
     "last_name": "Bouttell",
     "start_date": "2019-03-26",
     "country": "ZA",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Analyst Programmer",
     "manager_id": "993-631",
     "manager_name": "Moyra Bouttell"
@@ -10015,7 +10015,7 @@
     "last_name": "Weeden",
     "start_date": "2014-06-15",
     "country": "FR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Desktop Support Technician",
     "manager_id": "443-019",
     "manager_name": "Leigh Weeden"
@@ -10060,7 +10060,7 @@
     "start_date": "2012-04-21",
     "country": "AR",
     "department_name": "Accounting",
-    "title": "Human Resources Manager",
+    "title": "Human-Resources Manager",
     "manager_id": "390-428",
     "manager_name": "Chelsie Impson"
   },
@@ -10092,7 +10092,7 @@
     "last_name": "Birtle",
     "start_date": "2018-06-18",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Librarian",
     "manager_id": "546-374",
     "manager_name": "Emogene Birtle"
@@ -10103,7 +10103,7 @@
     "last_name": "Allflatt",
     "start_date": "2018-07-09",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Nurse",
     "manager_id": "417-913",
     "manager_name": "Buffy Allflatt"
@@ -10136,7 +10136,7 @@
     "last_name": "Ronca",
     "start_date": "2015-06-25",
     "country": "CN",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Paralegal",
     "manager_id": "355-256",
     "manager_name": "Alethea Ronca"
@@ -10202,7 +10202,7 @@
     "last_name": "Shearsby",
     "start_date": "2019-05-08",
     "country": "NI",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Senior Cost Accountant",
     "manager_id": "442-135",
     "manager_name": "Ashbey Shearsby"
@@ -10235,8 +10235,8 @@
     "last_name": "Dismore",
     "start_date": "2018-11-02",
     "country": "CM",
-    "department_name": "Human Resources",
-    "title": "Human Resources Manager",
+    "department_name": "Human-Resources",
+    "title": "Human-Resources Manager",
     "manager_id": "884-491",
     "manager_name": "Keelia Dismore"
   },
@@ -10246,7 +10246,7 @@
     "last_name": "Handaside",
     "start_date": "2022-06-21",
     "country": "MX",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Research Assistant III",
     "manager_id": "006-119",
     "manager_name": "Leeanne Handaside"
@@ -10257,7 +10257,7 @@
     "last_name": "Ringham",
     "start_date": "2016-12-07",
     "country": "FR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Operator",
     "manager_id": "349-860",
     "manager_name": "Ashely Ringham"
@@ -10268,7 +10268,7 @@
     "last_name": "Varfolomeev",
     "start_date": "2014-07-21",
     "country": "TN",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Civil Engineer",
     "manager_id": "244-793",
     "manager_name": "Tasia Varfolomeev"
@@ -10323,7 +10323,7 @@
     "last_name": "Castille",
     "start_date": "2021-11-06",
     "country": "SO",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Nuclear Power Engineer",
     "manager_id": "719-829",
     "manager_name": "Blancha Castille"
@@ -10345,7 +10345,7 @@
     "last_name": "Riddiough",
     "start_date": "2016-12-30",
     "country": "CZ",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Software Engineer I",
     "manager_id": "130-961",
     "manager_name": "Titos Riddiough"
@@ -10367,7 +10367,7 @@
     "last_name": "Aberchirder",
     "start_date": "2011-04-07",
     "country": "TZ",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Software Consultant",
     "manager_id": "748-700",
     "manager_name": "Marena Aberchirder"
@@ -10455,7 +10455,7 @@
     "last_name": "Guerreau",
     "start_date": "2018-09-29",
     "country": "US",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Speech Pathologist",
     "manager_id": "682-488",
     "manager_name": "Hi Guerreau"
@@ -10488,7 +10488,7 @@
     "last_name": "Tender",
     "start_date": "2011-03-27",
     "country": "FR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Graphic Designer",
     "manager_id": "409-068",
     "manager_name": "Myer Tender"
@@ -10499,7 +10499,7 @@
     "last_name": "Josselson",
     "start_date": "2023-05-18",
     "country": "HR",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Research Associate",
     "manager_id": "319-417",
     "manager_name": "Georg Josselson"
@@ -10510,7 +10510,7 @@
     "last_name": "McCluney",
     "start_date": "2016-11-23",
     "country": "US",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Recruiting Manager",
     "manager_id": "575-047",
     "manager_name": "Rosene McCluney"
@@ -10543,7 +10543,7 @@
     "last_name": "Krugmann",
     "start_date": "2015-04-25",
     "country": "PL",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Dental Hygienist",
     "manager_id": "420-961",
     "manager_name": "Saba Krugmann"
@@ -10554,7 +10554,7 @@
     "last_name": "Broinlich",
     "start_date": "2010-08-14",
     "country": "PE",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Payment Adjustment Coordinator",
     "manager_id": "387-630",
     "manager_name": "North Broinlich"
@@ -10565,7 +10565,7 @@
     "last_name": "Melhuish",
     "start_date": "2021-11-23",
     "country": "PH",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Staff Scientist",
     "manager_id": "855-884",
     "manager_name": "Hephzibah Melhuish"
@@ -10587,7 +10587,7 @@
     "last_name": "Beckitt",
     "start_date": "2021-11-26",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Data Coordinator",
     "manager_id": "604-268",
     "manager_name": "Rhea Beckitt"
@@ -10609,7 +10609,7 @@
     "last_name": "Luffman",
     "start_date": "2012-04-26",
     "country": "JP",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Research Assistant IV",
     "manager_id": "679-188",
     "manager_name": "Dacey Luffman"
@@ -10631,7 +10631,7 @@
     "last_name": "Berks",
     "start_date": "2018-07-15",
     "country": "SE",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Teacher",
     "manager_id": "772-509",
     "manager_name": "Worth Berks"
@@ -10642,7 +10642,7 @@
     "last_name": "Noone",
     "start_date": "2011-01-13",
     "country": "PT",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Marketing Manager",
     "manager_id": "475-234",
     "manager_name": "Stanfield Noone"
@@ -10653,7 +10653,7 @@
     "last_name": "Boldra",
     "start_date": "2010-10-07",
     "country": "BG",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Desktop Support Technician",
     "manager_id": "077-629",
     "manager_name": "Simon Boldra"
@@ -10708,7 +10708,7 @@
     "last_name": "Goddman",
     "start_date": "2011-09-04",
     "country": "FR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Pharmacist",
     "manager_id": "643-239",
     "manager_name": "Florance Goddman"
@@ -10741,7 +10741,7 @@
     "last_name": "Safont",
     "start_date": "2012-08-16",
     "country": "UA",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Professor",
     "manager_id": "964-391",
     "manager_name": "Candra Safont"
@@ -10763,7 +10763,7 @@
     "last_name": "Etoile",
     "start_date": "2020-06-15",
     "country": "PH",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Project Manager",
     "manager_id": "373-352",
     "manager_name": "Raoul Etoile"
@@ -10774,7 +10774,7 @@
     "last_name": "Harrap",
     "start_date": "2014-06-11",
     "country": "CZ",
-    "department_name": "Business Development",
+    "department_name": "Business-Development",
     "title": "Senior Developer",
     "manager_id": "964-202",
     "manager_name": "Emmet Harrap"
@@ -10796,7 +10796,7 @@
     "last_name": "Wilber",
     "start_date": "2019-08-24",
     "country": "ID",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Librarian",
     "manager_id": "999-736",
     "manager_name": "Kandace Wilber"
@@ -10807,7 +10807,7 @@
     "last_name": "Kimmince",
     "start_date": "2015-02-01",
     "country": "PH",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "VP Sales",
     "manager_id": "818-033",
     "manager_name": "Logan Kimmince"
@@ -10818,8 +10818,8 @@
     "last_name": "Mason",
     "start_date": "2013-08-04",
     "country": "HU",
-    "department_name": "Human Resources",
-    "title": "VP Product Management",
+    "department_name": "Human-Resources",
+    "title": "VP Product-Management",
     "manager_id": "003-983",
     "manager_name": "Scottie Mason"
   },
@@ -10862,7 +10862,7 @@
     "last_name": "Gerbi",
     "start_date": "2021-07-19",
     "country": "FR",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Developer II",
     "manager_id": "686-489",
     "manager_name": "Olivette Gerbi"
@@ -10873,7 +10873,7 @@
     "last_name": "Ysson",
     "start_date": "2013-03-22",
     "country": "CN",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "Chemical Engineer",
     "manager_id": "932-561",
     "manager_name": "Lucinda Ysson"
@@ -10895,7 +10895,7 @@
     "last_name": "Legerton",
     "start_date": "2019-09-25",
     "country": "ID",
-    "department_name": "Product Management",
+    "department_name": "Product-Management",
     "title": "General Manager",
     "manager_id": "736-833",
     "manager_name": "Warden Legerton"
@@ -10928,7 +10928,7 @@
     "last_name": "Reisenberg",
     "start_date": "2012-01-09",
     "country": "CO",
-    "department_name": "Research and Development",
+    "department_name": "Research-and-Development",
     "title": "Director of Sales",
     "manager_id": "355-413",
     "manager_name": "Maura Reisenberg"
@@ -10972,7 +10972,7 @@
     "last_name": "Jaime",
     "start_date": "2018-12-16",
     "country": "ID",
-    "department_name": "Human Resources",
+    "department_name": "Human-Resources",
     "title": "Help Desk Operator",
     "manager_id": "155-124",
     "manager_name": "Yulma Jaime"
