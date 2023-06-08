@@ -1,0 +1,10 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: employee-web-api
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: department-web-api
